@@ -1,0 +1,116 @@
+\begin{thebibliography}{99}
+\bibliographystyle{alpha}
+%\addcontentsline{toc}{chapter}{\bibname}
+\addcontentsline{toc}{chapter}{Tài liệu tham khảo}
+%\begin{flushleft}
+
+\begin{flushright}
+	\Large\bf\emph{Tiếng Việt}
+%\end{flushleft}
+\end{flushright}
+	\bibitem[MAP]{MAP}Đỗ Thị Diệu Ngọc, Nguyễn Hoài Nam, Nguyễn Thu Trang, 
+	 Nguyễn Yến Ngọc.\textit{Giải pháp tính hạng trang Modified Adaptive 
+	 PageRank trong máy tìm kiếm}. Chuyên san "Các công trình nghiên cứu 
+	 về CNTT và Truyền thông", Tạp chí Bưu chính Viễn thông, 14 , 4-2005, 65-71.
+	 
+	\bibitem[CCP]{ccp} Nguyễn Hoài Nam, Nguyễn Thu Trang, Nguyễn Yến Ngọc, Nguyễn 
+	Trung Kiên, Bùi Việt Hải. \emph{Sử dụng thành phần liên thông nâng cao 
+	hiệu năng tính toán PageRank trong máy tìm kiếm Vinahoo}. Hội thảo quốc gia 
+	lần thứ VIII “Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền 
+	thông”, Hải Phòng, 24-26/8/2005
+
+%\begin{flushleft}
+\begin{flushright}
+	\Large\bf\emph{Tiếng Anh}
+%\end{flushleft}
+\end{flushright}
+%%	%	\bibitem{allan} Allan Borodiny Gareth O. Robertsz Jeffrey S. Rosenthalx 
+%%		Panayiotis Tsaparas. \emph{Link Analysis Ranking Algorithms, Theory, 
+%%		andExperiments}. ACM Trans. Inter. Tech., Vol. 5, No. 1. 
+%%		(February 2005), pp. 231-297.
+%%		
+%%	%	\bibitem{eigenvector} Amy N. Langville, Carl D. Meyer. 
+%%		\emph{A Survey of Eigenvector Methods of Web Information Retrieval}. 
+%%		SIAM Review, Vol 47, No. 1, March 2005, pp. 135-161.  
+%%		
+%%		%\bibitem{markov} Amy N. Langville and Carl D. Meyer. \emph{Updating he 
+%%		Stationary Vector of an Irreducible Markov Chain With an Eye on 
+%%		Google’s PageRank}. tech. rep.,North Carolina State University, 
+%%		September 2004. 
+		
+		\bibitem{spamrank} András A. Benczúr, Károly Csalogány, Tamás Sarlós 
+		and Máté Uher. \emph{SpamRank – Fully Automatic Link Spam}. In First 
+		International Workshop on Adversarial Information Retrieval on the Web, 
+		WWW2005, 2005. 
+		
+%	%	\bibitem{survey} Anthony Bonato. \emph{A survey of models of the web 
+%		graph}. In The Proceedings of Combinatorial and Algorithmic Aspects of 
+%		Networking, August 2004.
+%		
+%		\bibitem{searching} Arvind Arasu, Junghoo Cho, Hector Garcia-Molina, Andreas Paepcke, Sriram Raghavan.
+%		\emph {Searching the Web}, Computer Science Department, Stanford University, 2001.
+
+		\bibitem{linkfarm} Baoning Wu and Brian D. Davison. \emph{Identifying Link Farm Spam Pages}. In Proceedings of the 14th 
+		International World Wide Web Conference, Industrial Track, May 2005.
+		
+		%\bibitem{frank} Frank McSherry. \emph{A Uniform Approach to Accelerated PageRank Computation}.  In Proceedings of the 14th international 	conference on World Wide Web, (WWW 2005).
+		
+		\bibitem{blogspam} Gilad Mishne, David Carmel, Ronny Lempel. 
+		\emph{ Blocking Blog Spam with Language Model Disagreement}. 
+		AIRWeb '05 - First International Workshop on Adversarial 
+		Information Retrieval on the Web, at the 14th International 
+		World Wide Web Conference (WWW2005), 2005 
+
+		\bibitem{HITS} Jon Kleinberg. \emph{Authoritative sources in a 
+		hyperlinked environment}. Journal of the ACM, 46(5):604-632, November 
+		1999.
+		
+%		\bibitem{happy}Mehran Sahami, Vibhu Mittal, Shumeet Baluja,
+%		and Henry Rowley. \emph{The happy searcher: Challenges
+%		in web information retrieval}. In Trends
+%		in Artificial Intelligence, 8th Pacific Rim International
+%		Conference on Artificial Intelligence
+%		(PRICAI), 2004.
+
+		\bibitem{challenge}Monika Henzinger, Rajeev Motwani, and Craig 	Silverstein. \emph{Challenges in web search engines}.SIGIR Forum, 36(2), 2002.
+		
+		\bibitem{metaxas} Panagiotis T. Metaxas, Joseph DeStefano. 
+		\emph{Web Spam, Propaganda and Trust}. Proceedings of the 1st 
+		International. Workshop on 	Adversarial Information Retrieval 
+		on the Web (AIRWeb).
+		
+%		\bibitem{noDF} Paolo Boldi. \emph{TotalRank: Ranking Without Damping}. 
+%		In Proc. of the Fourteenth International World Wide Web Conference 
+%		(Poster Session), pages 898-899. ACM Press, 2005. 
+%		
+%		\bibitem{funcDF} Paolo Boldi, Massimo Santini and Sebastiano Vigna. 
+%		\emph{PageRank as a Function of the Damping Factor}. 
+%		In Proceedings of the 14th international conference on World Wide Web, 
+%		pages 557–. 566, Chiba, Japan, 2005. ACM Press
+
+		\bibitem{PR} Page, L., Brin, S., Motwani, R. and Winograd, T. \emph {The PageRank citation ranking: bringing order to the Web}. Technical report, Stanford University, 1998.
+
+	%	\bibitem{paper:6} Pandurangan, G., Raghavan, P. and Upfal, E. (2002) \emph {Using PageRank to characterize Web structure}. Proc. 8th Ann. Int. Computing and Combinatorics Conf. (COCOON). Lecture Notes in Computer Science, vol. 2387, p. 330. Springer.
+		
+		\bibitem{trurank} Sebastiano Vigna. \emph{TruRank: Taking PageRank 
+		to the Limit}. In Proc. of the Fourteenth International World Wide Web 
+		Conference (Poster Session), Chiba, Japan, 2005. ACM Press 
+
+		\bibitem{AMP} Sepandar Kamvar, Taher Haveliwala, and Gene Golub. \textit{Adaptive Methods for the Computation of PageRank}. Technical report, Stanford University, 2003.
+		
+        \bibitem{CCPN} Thuy Q. Ha, Nam H. Nguyen, and Trang T. Nguyen. \emph {Improve Performance of PageRank Computation with Connected-Component PageRank}. 
+        First International Conference on Mobile Computing, Communications and Applications, 16-17 August, 2006, ICMOCCA 2006, Seoul, Korea (submitted).
+
+		\bibitem{trustrank} Z. Gyongyi, H. Garcia-Molina, and J. Pendersen. 
+		\emph{Combating Web Spam with TrustRank}. In Proceedings of the 30th 
+		International VLDB Conference, 2004.
+		
+		\bibitem{webspamtax05} Z. Gyongyi and H. Garcia-Molina. 
+		\emph{Web Spam Taxonomy}. Proc. of the Fourteenth International 
+		World Wide Web Conference, Chiba, Japan, 2005 		%
+		
+		\bibitem{alliance}Zoltan Gyongyi and Hector Garcia-Molina. \emph{Link
+		spam alliances}. Technical report, Stanford University,	2005.
+
+		\bibitem{nutch} http://lucene.apache.org/nutch/
+\end{thebibliography}

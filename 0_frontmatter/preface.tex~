@@ -1,0 +1,56 @@
+%-------Preface
+%
+\clearpage
+\pagestyle{empty}
+%\thispagestyle{empty}
+%\mbox{}
+%\addcontentsline{toc}{chapter}{Lời nói đầu}
+\begin{preface}
+	\bigskip
+	\indent Bài toán tính hạng các đối tượng trên Web (trang Web, tác giả, chủ đề...) nói chung,
+	và bài toán tính hạng trang Web nói riêng, có ý nghĩa quan trọng trong lĩnh vực khai phá 
+	Web. Trong thời gian gần đây, nhiều công trình nghiên cứu trên thế giới giải
+	quyết bài toán tính hạng trang Web, chẳng hạn như [3-17], đã được công bố. Lớp thuật
+	toán tính hạng trang điển hình nhất là lớp thuật toán khai thác mối liên kết 
+	giữa các trang Web trong một đồ thị Web. Một số kết quả nghiên cứu của chúng tôi 
+	về tính hạng trang web trong máy tìm kiếm tập trung
+	vào việc đề xuất các cải tiến nhằm tăng tốc thuật toán tính hạng trang và thi hành trên
+	một máy tìm kiếm tiếng Việt đã được công bố trong \cite{MAP,ccp,CCPN}.
+	
+	\indent Hướng người dùng đã trở thành xu hướng nghiên cứu nổi bật về hạng trang trong thời gian gần đây.
+	Trong hai năm gần đây nhất, theo xu hướng đó là một số lượng đáng kể các công trình nghiên cứu liên quan tới 
+	khái niệm spam, điển hình nhất là~\cite{spamrank,linkfarm,blogspam,metaxas, trustrank,webspamtax05} , đã được công bố. Các công trình nghiên cứu này được phân thành hai lớp chính.
+	Lớp thứ nhất đề cập tới các giải pháp nhằm làm tăng giá trị cơ sở của hạng trang khi tăng cường ngữ nghĩa của
+	các liên kết giữa các trang Web nhằm làm phù hợp hơn với ngữ cảnh ứng dụng. Lớp thứ hai quan tâm
+	tới các giải pháp tính hạng trang hiển thị khi trình diễn kết quả phù hợp hơn với ngữ cảnh tìm kiếm
+	của người sử dụng.
+	
+	\indent Khóa luận tốt nghiệp với đề tài \emph{LinkSpam với đồ thị web 
+	và hạng	trang web} tiến hành việc khảo sát, phân tích các giải pháp xác định LinkSpam 
+	đã được đề xuất trong hai năm gần đây để từ đó đề xuất các cải tiến giải pháp  vào việc tính hạng trang 
+	trong máy tìm kiếm.\\
+	
+	\noindent Khóa luận này gồm bốn chương nội dung được mô tả sơ bộ như dưới đây.
+	\begin{description}
+		\item[Chương 1.] \emph{Tổng quan về hạng trang và spam} giới thiệu những nội dung cơ bản nhất về bài toán tính hạng web 
+		và sự xuất hiện của các công nghệ spam nhằm nâng cao hạng trang. 
+		Ngoài ra, chương này cũng giới thiệu về đồ thị web và cơ sở của thuật 
+		toán tính hạng trang.
+		\item[Chương 2.] \emph{Một số phương pháp tăng tốc tính hạng trang} trình bày hai phương pháp tính hạng trang cơ bản,
+		 được đề xuất sớm nhất, đã trở thành cơ sở cho các thuật toán tính hạng và xác định 
+		 WebSpam sau này. Đồng thời, chương này cũng giới thiệu thuật toán 
+		 tính hạng trang theo khối dựa vào tính chất liên thông, một kết quả 
+		 nghiên cứu đã được công bố của chúng tôi.	
+		\item[Chương 3.] \emph{Các phương pháp xác định LinkSpam} khảo sát và phân tích kỹ lưỡng các phương pháp xác định LinkSpam và đưa ra 
+		những đánh giá về ưu nhược điểm của chúng trong việc xác định các trang 
+		web là spam hay không. Đồng thời, chương này cũng trình bày 
+		phương pháp xác định LinkSpam do tôi đề xuất dựa trên cơ sở các phân tích đánh giá nói trên.
+		\item[Chương 4.] \emph{Thử nghiệm trên hệ thống NUTCH} phân tích hệ thống NUTCH (một máy tìm kiếm mã nguồn 
+		mở) và một số cài đặt cải tiến của chúng tôi, đặc biệt đối với thành phần tính hạng trang Web. Kết quả thử nghiệm đánh giá phương 
+		pháp cho thấy tính khả dụng của nói\ldots .
+		\item[Phần kết luận] tổng kết và tóm lược nội dung chính của khóa luận. 
+	\end{description}
+	
+	%\indent Cuối cùng, phần Phụ lục trình bày một số nội dung cài đặt của tác giả khóa luận. 
+\end{preface}
+\endinput

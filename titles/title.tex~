@@ -1,0 +1,40 @@
+\begin{titlepage}
+\begin{center}
+\textsc{\Large ĐẠI HỌC QUỐC GIA HÀ NỘI \\ TRƯỜNG ĐẠI HỌC CÔNG NGHỆ}
+\\[0.3cm]
+\begin{figure}[ht]
+\centering
+\includegraphics[height=3cm,width=3cm]{./resources/img/coltech.jpg}
+\end{figure}
+
+
+\large{\textsc{$\;$\\CÔNG TRÌNH DỰ THI \\HỘI NGHỊ SINH VIÊN NGHIÊN CỨU KHOA HỌC}} \\[0.3cm]
+% Titlel
+\HRule \\[0.4cm]
+  {\Large \bfseries MÔ HÌNH HÓA LUỒNG THÔNG TIN \\[0.2cm] TRONG MẠNG XÃ HỘI THÔNG QUA \\[0.2cm] PHƯƠNG TIỆN XÃ HỘI} \\[0.1cm]
+\HRule \\[1cm]
+
+\begin{Large}
+\begin{flushright}
+\texttt{Sinh viên thực hiện}\\
+\indent Nguyễn Minh Hoàng\\
+\indent Nguyễn Sỹ Quân \\
+\indent Ngô Quang Hiểu	\\[0.3cm]
+\texttt{Cán bộ hướng dẫn}\\
+\indent TS. Phan Xuân Hiếu\\
+\indent ThS. Trần Mai Vũ\\[1cm]
+
+\end{flushright}
+\end{Large}
+
+\vfill
+
+% Bottom of the page
+{\large Hà Nội, \today}
+%{\large Hà Nội, }
+\end{center}
+
+\end{titlepage}
+ 
+
+ 

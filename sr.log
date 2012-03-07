@@ -1,0 +1,1046 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  7 MAR 2012 14:33
+entering extended mode
+ %&-line parsing enabled.
+**sr.tex
+(./sr.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(./Latex/Classes/PhDthesisPSnPDF.cls
+Document Class: Latex/Classes/PhDthesisPSnPDF 2007/09/06 v2 PhD thesis class
+(/usr/share/texmf/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/bk11.clo
+File: bk11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+(/usr/share/texmf/tex/latex/caption/caption.sty
+Package: caption 2007/01/07 v3.0k Customising captions (AR)
+
+(/usr/share/texmf/tex/latex/caption/caption3.sty
+Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen103
+\captionmarginx=\dimen104
+\captionwidth=\dimen105
+\captionindent=\dimen106
+\captionparindent=\dimen107
+\captionhangindent=\dimen108
+))
+(/usr/share/texmf/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texmf/tex/latex/amsfonts/eucal.sty
+Package: eucal 2001/10/01 v2.2d Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 55.
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2005/11/23 v3.8h The Babel package
+
+(/usr/share/texmf/tex/latex/vntex/vietnam.ldf
+Language: vietnam 2005/04/21 v1.2 Vietnamese support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2005/11/23 v3.8h Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen109
+)
+\l@vietnam = a dialect from \language0
+
+Loading definitions for the Vietnamese font encoding
+(/usr/share/texmf/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+)
+
+Package babel Warning: No input encoding specified for Vietnamese on input line
+ 52.
+
+(/usr/share/texmf/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(/usr/share/texmf/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+))
+(/usr/share/texmf/tex/latex/vntex/vietnam.sty
+Package: vietnam 2006/10/18 v1.2 support for Vietnamese
+
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+LaTeX Font Info:    Redeclaring font encoding T5 on input line 75.
+)
+LaTeX Font Info:    Try loading font information for T5+cmr on input line 100.
+
+(/usr/share/texmf/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(/usr/share/texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texmf/tex/latex/base/utf8.def
+File: utf8.def 2006/03/30 v1.1i UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encodingT1
+
+(/usr/share/texmf/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2006/03/30 v1.1i UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encodingOT1
+
+(/usr/share/texmf/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2006/03/30 v1.1i UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encodingOMS
+
+(/usr/share/texmf/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2006/03/30 v1.1i UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encodingT5
+
+(/usr/share/texmf/tex/latex/vntex/t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texmf/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(/usr/share/texmf/tex/latex/algorithms/algorithm.sty
+Package: algorithm 
+
+Document Style `algorithm' - floating environment
+(/usr/share/texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count91
+)
+(/usr/share/texmf/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2006/06/02
+
+Document Style `algorithmic' - environment
+(/usr/share/texmf/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count92
+\calc@Bcount=\count93
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count94
+\calc@Cskip=\skip54
+)
+\c@ALC@line=\count95
+\c@ALC@rem=\count96
+\c@ALC@depth=\count97
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
+)
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen112
+))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen113
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks22
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks23
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks24
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/share/texmf/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
+\FN@temptoken=\toks26
+\footnotemargin=\dimen121
+\c@pp@next@reset=\count110
+\c@@fnserial=\count111
+Package footmisc Info: Declaring symbol style bringhurst on input line 817.
+Package footmisc Info: Declaring symbol style chicago on input line 818.
+Package footmisc Info: Declaring symbol style wiley on input line 819.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 823.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 831.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 840
+.
+)
+(/usr/share/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2007/02/05 8.0 (PWD)
+\bibhang=\skip60
+\bibsep=\skip61
+LaTeX Info: Redefining \cite on input line 602.
+\c@NAT@ctr=\count112
+)
+(/usr/share/texmf/tex/latex/tools/multicol.sty
+Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
+\c@tracingmulticols=\count113
+\mult@box=\box30
+\multicol@leftmargin=\dimen122
+\c@unbalance=\count114
+\c@collectmore=\count115
+\doublecol@number=\count116
+\multicoltolerance=\count117
+\multicolpretolerance=\count118
+\full@width=\dimen123
+\page@free=\dimen124
+\premulticols=\dimen125
+\postmulticols=\dimen126
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box31
+\last@line=\box32
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count119
+\c@finalcolumnbadness=\count120
+\last@try=\dimen127
+\multicolovershoot=\dimen128
+\multicolundershoot=\dimen129
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+)
+(/usr/share/texmf/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2003/03/13 v1.5g extra ToC listings
+
+
+Package tocbibind Note: The document has chapter divisions.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texmf/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen130
+\nom@tempdim=\dimen131
+\nomitemsep=\skip64
+)
+\@glossaryfile=\write3
+\openout3 = `sr.glo'.
+
+
+Writing glossary file sr.glo 
+\@nomenclaturefile=\write4
+\openout4 = `sr.nlo'.
+
+Writing nomenclature file sr.nlo
+(/usr/share/texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2006/02/20 v1.4 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen132
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 2238.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 2238.
+
+
+Package hyperref Warning: Values of option `pdfpagelayout':
+(hyperref)                * `SinglePage'
+(hyperref)                * `OneColumn'
+(hyperref)                * `TwoColumnLeft'
+(hyperref)                * `TwoColumnRight'
+(hyperref)                * `TwoPageLeft' (PDF 1.5)
+(hyperref)                * `TwoPageRight' (PDF 1.5)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `useoutlines' on input line 2238.
+
+Package hyperref Info: Option `bookmarks' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 2238.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 2238
+.
+Package hyperref Info: Option `breaklinks' set `true' on input line 2238.
+Package hyperref Info: Option `linktocpage' set `true' on input line 2238.
+Package hyperref Info: Option `colorlinks' set `false' on input line 2238.
+Package hyperref Info: Option `hyperindex' set `true' on input line 2238.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 2238.
+Package hyperref Info: Option `unicode' set `true' on input line 2238.
+(/usr/share/texmf/tex/latex/hyperref/puenc.def
+File: puenc.def 2007/02/07 v6.75r Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures ON on input line 2286.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing ON on input line 2306.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf/tex/latex/hyperref/backref.sty
+Package: backref 2006/10/06 v1.27 Bibliographical back referencing
+)
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count123
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+\Choice@toks=\toks27
+\Field@toks=\toks28
+Package hyperref Info: Hyper figures ON on input line 3100.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing ON on input line 3115.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count124
+\c@Item=\count125
+\c@Hfootnote=\count126
+)
+*hyperref using driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 220.
+
+)
+\@input{Latex/Macros/MacroFile1.aux}
+\openout2 = `Latex/Macros/MacroFile1.aux'.
+
+(./Latex/Macros/MacroFile1.tex) (./sr.aux (./0_frontmatter/abstract.aux)
+(./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux))
+\openout1 = `sr.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+(/usr/share/texmf/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(/usr/share/texmf/tex/latex/everysel/everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+Package caption Info: float package v1.3 (or newer) detected on input line 38.
+Package caption Info: hyperref package v6.74m (or newer) detected on input line
+ 38.
+Package hyperref Info: Link coloring OFF on input line 38.
+
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+ (./sr.out) (./sr.out)
+\@outlinefile=\write5
+\openout5 = `sr.out'.
+
+Package backref Info: ** backref set up for natbib ** on input line 38.
+
+(./titles/title.tex <./resources/img/coltech.jpg, id=94, 224.84pt x 224.84pt>
+File: ./resources/img/coltech.jpg Graphic file (type jpg)
+
+<use ./resources/img/coltech.jpg>
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+ (/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+eus on input line 14.
+
+(/usr/share/texmf/tex/latex/amsfonts/ueus.fd
+File: ueus.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for T5+cmtt on input line 14.
+
+(/usr/share/texmf/tex/latex/vntex/t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 14.
+ [1
+
+
+
+\FN@pp@footnotehinttrue 
+
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./resources/img/coltech.
+jpg>])
+\openout2 = `0_frontmatter/abstract.aux'.
+
+ (./0_frontmatter/abstract.texpdfTeX warning (ext4): destination with the same 
+identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \end{abstracts}
+                     [1
+
+])
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 56.
+
+(./sr.toc [2
+\FN@pp@footnotehinttrue 
+
+
+])
+\tf@toc=\write6
+\openout6 = `sr.toc'.
+
+ [3]
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\texttilde+e' on input line 81.
+
+(./sr.lof)
+\tf@lof=\write7
+\openout7 = `sr.lof'.
+
+ [4
+
+]
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\h' on input line 83.
+
+(./sr.lot)
+\tf@lot=\write8
+\openout8 = `sr.lot'.
+
+ (./0_frontmatter/glossary.tex [5
+
+]) [6
+
+] (./0_frontmatter/preface.tex
+LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 25.
+
+[1
+
+
+]) [2]
+\openout2 = `1_introduction/introduction.aux'.
+
+ (./1_introduction/introduction.tex
+ 1.
+) [3
+
+
+]
+\openout2 = `2/method.aux'.
+
+ (./2/method.tex
+ 2.
+) [4
+
+
+
+]
+\openout2 = `3/ourmethod.aux'.
+
+ (./3/ourmethod.tex
+ 3.
+) [5
+
+
+
+] (./9_backmatter/references.tex (./sr.brf)
+\tf@brf=\write9
+\openout9 = `sr.brf'.
+
+
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\d' on input line 1.
+
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\ecircumflex' on input line 1.
+
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\h' on input line 1.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{flushright}
+                      
+? R
+OK, entering \nonstopmode...
+) [6
+
+
+] (./sr.aux (./0_frontmatter/abstract.aux)
+(./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux)) ) 
+Here is how much of TeX's memory you used:
+ 7270 strings out of 256216
+ 92853 string characters out of 1917073
+ 159251 words of memory out of 1500000
+ 10285 multiletter control sequences out of 10000+200000
+ 31734 words of font info for 79 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 42i,11n,45p,1181b,531s stack positions out of 5000i,500n,6000p,200000b,15000s
+</us
+r/share/texmf/fonts/type1/bluesky/ams/eusm10.pfb></usr/share/texmf/fonts/type1/
+vntex/vnr/vnbx10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx12.pfb></usr/s
+hare/texmf/fonts/type1/vntex/vnr/vnbxti10.pfb></usr/share/texmf/fonts/type1/vnt
+ex/vnr/vncsc10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr10.pfb></usr/shar
+e/texmf/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/texmf/fonts/type1/vntex/vnr
+/vnti10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb></usr/share/texm
+f/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on sr.pdf (13 pages, 177784 bytes).
+PDF statistics:
+ 237 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 131072)
+ 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+
