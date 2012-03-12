@@ -1,0 +1,16 @@
+Về hệ thống:
+1. Nhóm 3 bài báo:
+	1.1 Frontex Real-time News Event Extraction Framework
+	1.2 Real-time News Event Extraction for Global Monitoring System
+	1.3 Real-time News Event Extraction for Global Crisis Monitoring
+
+2. NOAM: News Outlets Analysis and Monitoring System
+
+Tổng quan về event extraction
+1. An overview ò Event Extraction from Text
+	Bài này quan trọng, bởi nói tới các phương pháp trích xuất sự kiện, bám theo danh sách tham khảo để tìm bài. 
+2. What can linguistics contribute to event extraction
+3. The stages of event extraction
+4. Message Understanding Conferences- 6: A brief of history
+
+

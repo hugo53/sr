@@ -57,7 +57,7 @@
 
 \usepackage{algorithm}
 \usepackage{algorithmic}
-
+\usepackage{amsmath}
 
 \usepackage[usenames, dvipsnames]{color}
 \usepackage[perpage]{footmisc}

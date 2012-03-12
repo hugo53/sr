@@ -46,6 +46,7 @@
 \usepackage{fancyhdr} % for better header layout
 \usepackage{eucal}
 \usepackage[vietnam,english]{babel}
+\usepackage{appendix}
 %\addto\captionsvietnameses{
 %        %\renewcommand{\figurename}{Abb.}%
 %        %\renewcommand{\tablename}{Tab.}%
