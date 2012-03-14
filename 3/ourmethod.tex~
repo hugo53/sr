@@ -21,8 +21,10 @@
 
 
 
-\section{Hệ thống theo dõi tin tức}
-\noindent Thế giới đang thay đổi rất nhanh  với sự tham gia của các phương tiện truyền thông xã hội. Mọi thông tin đều có thể đến với người dùng từ nhiều nguồn khác nhau. Tuy nhiên, sử dụng phương tiện truyền thông xã hội riêng lẻ khó có thể cập nhật được kịp thời và chính xác thông tin. Để đáp ứng nhu cầu đó, những hệ thống tổng hợp tin tức lần lượt ra đời giúp cho con người có thể dễ dàng nắm bắt thông tin. Khởi đầu bởi <tên hệ thóng đầu tiên trên thế giới>, tiếp sau đó là  <tên hệ thống khác 1>, <tên hệ thống khác 2>, \ldots Vào năm 2005, hệ thống tổng hợp tin tức tự động đầu tiên của Việt Nam ra đời dựa trên thành tựu nghiên cứu \emph{Hệ thống thu thập và tách thông tin ICPS} của hai tác giả Nguyễn Thành Long và Nguyễn Phú Bình đạt giải nhì cuộc thi Trí Tuệ Việt Nam 2002. Hệ thống có tên \emph{Hệ thống xử lý tiếng Việt tự động ePi} này đặt tại địa chỉ \href{www.baomoi.com}{www.baomoi.com} được người dùng biết đến với tên \textsc{Báo mới} và nhanh chóng trở thành trang tin tức tổng hợp được nhiều người sử dụng bởi tính tiện lợi và cập nhật. Mặc dù có những ưu điểm như vậy, một hệ thống tổng hợp tin tức vẫn có những yếu điểm chưa thể khắc phục. Thứ nhất, tin tức không được trực quan hóa theo xu hướng quan tâm của người dùng. Thông thường, độ ưu tiên quan tâm của người dùng sẽ là: thời gian (when) > địa điểm (where) >  thông tin gì(what). Thứ hai,
+\section{Hệ thống theo dõi tin tức $\mathcal{N}$\texttt{ewSOMoni}}
+
+
+\section{}
 
 
 % ---------------------------------------------------------------------------

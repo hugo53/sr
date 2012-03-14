@@ -6,12 +6,24 @@
 
 % ----------------------- contents from here ------------------------
 
-\section{Sự kiện là gì?}
+\section{Định nghĩa sự kiện}
 %Nêu định nghĩa ở đây, bài Online New Event Detection and tracking
-\section{Các phương pháp hướng nội dung}
+\noindent Theo Allan, một tin tức được cho là phản ánh một sự kiện nếu nó có đủ ba yếu tố: chủ thể, thời gian, địa điểm \cite{JRV98}. Chủ thể có thể là con người, sự vật hoặc sự việc. Cũng theo công bố này, để định nghĩa rõ ràng thế nào là sự kiện rất khó bởi tính nhập nhằng liên quan tới các yếu tố ngữ cảnh, ngôn ngữ, văn hóa. Ví dụ, \emph{Chiều ngày \texttt{5/3/2012}, tai nạn giao thông tại \texttt{ngã tư Khuất Duy Tiến} làm \texttt{2 người} tử vong} là một sự kiện nói về tai nạn giao thông. Nhưng \emph{Theo báo cáo của cảnh sát giao thông \texttt{Hà Nội} \texttt{chiều nay}, số \texttt{người} chết vì tai nạn giao thông giảm 30\% so với cùng kỳ năm ngoái} lại không phải là một sự kiện dù có đủ 3 yếu tố kể trên.
+\\
+\noindent Trong phạm vi giải quyết bài toán trích xuất sự kiện, việc định nghĩa rõ ràng sự kiện mà nghiên cứu quan tâm luôn là yêu cầu trước tiên. Ban đầu  hội nghị MUC chỉ quan tâm các sự kiện về hoạt động quân sự. Sau đó, tới lần tổ chức thứ 3 thì các sự kiện về khủng bố, đầu tư mạo hiểm, tai nạn máy bay, \ldots Các thuộc tính cần phải có của một sự kiện mà MUC yêu cầu gồm có: tác nhân, thời gian, địa điểm và các tác động của nó.
+\\
+\noindent Ở chương trình ACE, dạng sự kiện và các thuộc tính về sự kiện được quy định chặt chẽ hơn với tám dạng sau: LIFE (sự sống--chết), MOVEMENT (sự di chuyển), TRANSACTION (giao dịch), BUSINESS (kinh tế), CONFLICT (xung đột), CONTACT (giao thiệp, gặp gỡ), PERSONNEL (nhận--đuổi việc), JUSTICE (pháp lý). Mỗi dạng sự kiện lại có phân biệt từng dạng con. Ví dụ như LIFE có các dạng  sự kiện  con BE-BORN (chào đời), INJURE (bị thương), DIE (chết) hay PERSONNEL có START--POSITION (vị trí khi nhận việc), END--POSITION (vị trí trước khi bị thôi việc), NOMINATE (bổ nhiệm), ELECT (bầu chọn), \ldots
+\\
+\noindent Hầu hết những nghiên cứu được trích dẫn trong báo cáo này đều chỉ tập trung vào một lĩnh vực cụ thể. \cite{MM09}, \cite{YKW09} khai thác các sự kiện trên trang cá nhân.  \cite{CVJ09}, \cite{CHR04} tập trung vào sự kiện y sinh học. \cite{HJM08}, \cite{JHP07} thực hiện trích xuất sự kiện thảm họa, mối nguy hiểm đe dọa. Ngoài ra, sự kiện về giải thưởng Nobel \cite{FHH06}, sự kiện về chứng khoán \cite{FHD02}, sự kiện về đầu tư tài chính \cite{CM00} hay các sự kiện về chính trị \cite{FK08}, \cite{CM00} cũng được quan tâm.
+\\
+\noindent Nghiên cứu này thực hiện trích xuất sự kiện từ các bản tin thông báo hằng ngày cho các loại sự kiện nói về tai nạn giao thông, các vi phạm hình sự, các vụ cháy nổ. Một cách tường minh,  sự kiện được định nghĩa  rằng phải có đủ ba thuộc tính: chủ thể, thời gian và địa điểm và bắt buộc thuộc ba dạng: TAI NẠN GIAO THÔNG, HÌNH SỰ, CHÁY NỔ.
+%vẫn chưa được định nghĩa thực sự cụ thể  khi bản tin sẽ được xem xét nếu có các %yếu tố: tác nhân, thời gian, địa điểm, các tác động
 
 
-\section{Các phương pháp hướng dữ liệu}
+\section{Trích xuất sự kiện sử dụng luật lexico--syntactic|lexico--semantic}
+
+
+\section{Trích xuất sự kiện sử dụng phân cụm}
 
 
 

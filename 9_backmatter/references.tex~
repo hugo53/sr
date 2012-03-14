@@ -18,11 +18,50 @@ $\;$
 
 		\bibitem[MW11]{MW11} Martin Wunderwald. \emph{NewsX--Event Extraction from News Articles}. Master Thesis. Dresden University of Technology, Germany, 2011.
 	
-		\bibitem[HLH10]{HLH10} Sheng-Hao Hung, Chia-Hung Lin Jen-Shin Hong. \emph{Web mining for event-based commonsense knowledge using lexico-syntactic pattern matching and semantic role labeling}. Journal Expert Systems with Applications, vol. 37, 2010.
+		%\bibitem[HLH10]{HLH10} Sheng-Hao Hung, Chia-Hung Lin Jen-Shin Hong. \emph{Web mining for event-based commonsense knowledge using lexico-syntactic pattern matching and semantic role labeling}. Journal Expert Systems with Applications, vol. 37, 2010.
 
 		\bibitem[YKW09]{YKW09} Yoko Nishihara, Keita Sato, Wataru Sunayama. \emph{Event Extraction and Visualization for Obtaining Personal Experiences from Blogs}. Human Interface and the Management of Information. Information and Interaction. LNCS, vol. 5839, Springer--Verlag, 2009.
+		
+		\bibitem[MM09]{MM09} 	Masayuki Okamoto, Masaaki Kikuchi. \emph{Discovering Volatile Events in Your Neighborhood: Local-Area Topic Extraction from Blog Entries}. Asia Information Retrieval Symposium on Information Retrieval Technology, $5^{th}$, AIRS09, 2009.
+
+		\bibitem[CVJ09]{CVJ09} K. Bretonnel Cohen 	
+	Karin Verspoor, 
+	Helen L. Johnson, 
+	Chris Roeder, 	
+	Philip V. Ogren, 	
+	William A. Baumgartner, Jr.,
+	Elizabeth White, 	
+	Hannah Tipney, 	
+	Lawrence Hunter.	 \emph{High-precision biological event extraction with a concept recognizer}. BioNLP09 Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing, 2009.
+	
+
+		\bibitem[MYL08]{MYL08} 	Mingrong Liu, Yicen Liu, Liang Xiang, Xing Chen, Qing Yang. \emph{Extracting Key Entities and Significant Events from Online Daily News}. International Conference on Intelligent Data Engineering and Automated Learning, $9^{th}$, IDEAL08, 2008. 	
+
+		\bibitem[HJM08]{HJM08} 	Hristo Tanev, Jakub Piskorski, Martin Atkinson. \emph{Real-Time News Event Extraction for Global Crisis Monitoring}. International Conference on Natural Language and Information Systems: Applications of Natural Language to Information Systems, $13^{th}$, NLDB08, 2008.
+
+		\bibitem[FK08]{FK08}  Felix Jungermann, Katharina Morik.  \emph{Enhanced Services for Targeted Information Retrieval by Event Extraction and Data Mining}. International Conference on Natural Language and Information Systems: Applications of Natural Language to Information Systems, $13^{th}$, NLDB08, 2008. 
+
+		\bibitem[JHP07]{JHP07}  	Jakub Piskorski, Hristo Tanev, Pinar Oezden Wennerberg. \emph{Extracting violent events from on-line news for ontology population}.  International Conference on Business Information Systems, $10^{th}$, BIS07, 2007. 
+
+		\bibitem[FHH06]{FHH06} Feiyu Xu, Hans Uszkoreit,Hong Li. \emph{Automatic Event and Relation Detection
+with Seeds of Varying Complexity}. AAAI Workshop on Event Extraction and Synthesis, 2006.
+		
+		\bibitem[LWZ05]{LWZ05} Zhen Lei, Ling-da Wu, Ying Zhang, Yu-chi Liu, \emph{A System for Detecting and Tracking Internet News Event}. Pacific--Rim Conference on Multimedia, $6^th$, PCM05, 2005.
+
+		\bibitem[MD04]{MD04} 	Maria Vargas-Vera, David Celjuska. \emph{Event Recognition on News Stories and Semi-Automatic Population of an Ontology}.IEEE/WIC/ACM International Conference on Web Intelligence, WI04, 2004.
+
+
+		\bibitem[CHR04]{CHR04}  	Hong-woo Chun, Young-sook Hwang, Hae-Chang Rim. \emph{Unsupervised event extraction from biomedical literature using co-occurrence information and basic patterns}. International Joint Conference on Natural Language Processing, $1^{st}$, IJCNLP04, 2004. 
+   
+		\bibitem[TFA03]{TFA03} Thorsten Brants, Francine Chen, Ayman Farahat. \emph{A System for new event detection}. Annual International ACM SIGIR Conference on Research and Development in Informaion Retrieval, $26^{th}$, SIGIR03, 2003.
+
+		\bibitem[FHD02]{FHD02} Fang Li, Huanye Sheng, Dongmo Zhang. \emph{Event Pattern Discovery from the Stock Market Bulletin}. International Conference on Discovery Science, $5^{th}$, DS02, 2002.
 
 		\bibitem[CM00]{CM00} Chinatsu Aone, Mila Ramos-Santacruz. \emph{REES: a large-scale relation and event extraction system}. Applied Natural Language Processing Conference, $6^{th}$, ANLP00, 2000.
+
+		\bibitem[YTJ98]{YTJ98} 	Yiming Yang, Tom Pierce, Jaime Carbonell 	. \emph{A study of retrospective and on-line event detection}.  Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, $21^{st}$, SIGIR98, 1998. 
+		
+		\bibitem[JRV98]{JRV98} \emph{On-line new event detection and tracking}.
 
 		\bibitem[RB96]{RB96} Ralph Grishman, Beth Sundheim. \emph{Message Understanding Conference - 6: A Brief History}. MUC--6, 1996.
 

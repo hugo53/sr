@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  12 MAR 2012 14:37
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  14 MAR 2012 21:39
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode\input sr.tex
@@ -944,7 +944,7 @@ Package hyperref Warning: Glyph not defined in PU encoding,
 ]
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\h' on input line 83.
+(hyperref)                removing `\h' on input line 82.
 
 (./sr.lot)
 \tf@lot=\write8
@@ -981,7 +981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 \noindent
+l.86 \noindent
                Một yếu tố khác đưa chúng tôi đến với đề t...
 
 Your command was ignored.
@@ -996,7 +996,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.119 \noindent
+l.121 \noindent
                 Tính tới thời điểm thực hiện công trình, Việ...
 
 Your command was ignored.
@@ -1010,28 +1010,57 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 \noindent
+l.124 \noindent
                 Ngoài ra, khó khăn trong xử lý dữ liệu lớn cũng...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[7]) [8]
+! Undefined control sequence.
+<recently read> \noident 
+                         
+l.139 \noident
+               Những phương pháp đã trình bày ở trên chủ yếu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7] [8] [9]) [10]
 \openout2 = `2/method.aux'.
 
  (./2/method.tex
  2.
-) [9
+[11
 
 
 
 ]
+Overfull \hbox (4.98561pt too wide) in paragraph at lines 23--23
+[]\T5/cmr/bx/n/14.4 Tr�ch xu�t s� ki�n s� d�ng lu�t lexico--syntactic|lexico--
+ []
+
+) [12]
 \openout2 = `3/ourmethod.aux'.
 
  (./3/ourmethod.tex
  3.
-) [10
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 24.
+
+
+Overfull \hbox (0.52516pt too wide) in paragraph at lines 27--27
+[]\T5/cmr/bx/n/14.4 Ph��ng ph�p k�t h�p lu�t v� Max-i-mum En-tropy trong
+ []
+
+) [13
 
 
 
@@ -1350,15 +1379,11 @@ Overfull \hbox (50.01912pt too wide) in paragraph at lines 3--162
 thao) - http://thethao.zing.vn/news 
  []
 
-[11
+[14
 
 
 
-] [12] [13] [14]
-Ph\d {u} l\d {u}c B.
-) [15
-
-] (./9_backmatter/references.tex (./sr.brf)
+] [15] [16]) [17] (./9_backmatter/references.tex (./sr.brf)
 \tf@brf=\write9
 \openout9 = `sr.brf'.
 
@@ -1387,35 +1412,36 @@ l.7 \begin{flushright}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[16
+[18
 
 
-]) [17] (./sr.aux (./0_frontmatter/abstract.aux)
+] [19]) [20] (./sr.aux (./0_frontmatter/abstract.aux)
 (./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux)
 (./9_backmatter/appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 7483 strings out of 256216
- 95451 string characters out of 1917073
- 163668 words of memory out of 1500000
- 10434 multiletter control sequences out of 10000+200000
- 38210 words of font info for 91 fonts, out of 1200000 for 2000
+ 7580 strings out of 256216
+ 96333 string characters out of 1917073
+ 168668 words of memory out of 1500000
+ 10511 multiletter control sequences out of 10000+200000
+ 38846 words of font info for 93 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 42i,11n,47p,2442b,539s stack positions out of 5000i,500n,6000p,200000b,15000s
-</usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.
-pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/
-type1/bluesky/ams/eusm10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx10.pfb
-></usr/share/texmf/fonts/type1/vntex/vnr/vnbx12.pfb></usr/share/texmf/fonts/typ
-e1/vntex/vnr/vnbx9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbxti10.pfb></u
-sr/share/texmf/fonts/type1/vntex/vnr/vncsc10.pfb></usr/share/texmf/fonts/type1/
-vntex/vnr/vnr10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr12.pfb></usr/sha
-re/texmf/fonts/type1/vntex/vnr/vnr6.pfb></usr/share/texmf/fonts/type1/vntex/vnr
-/vnr8.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr9.pfb></usr/share/texmf/fo
-nts/type1/vntex/vnr/vnti10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnti9.pf
-b></usr/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb></usr/share/texmf/fonts/ty
-pe1/vntex/vnr/vntt12.pfb>
-Output written on sr.pdf (24 pages, 272655 bytes).
+ 42i,11n,46p,2442b,539s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi10
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/ams/eusm10.pf
+b></usr/share/texmf/fonts/type1/vntex/vnr/vnbx10.pfb></usr/share/texmf/fonts/ty
+pe1/vntex/vnr/vnbx12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx9.pfb></us
+r/share/texmf/fonts/type1/vntex/vnr/vnbxti10.pfb></usr/share/texmf/fonts/type1/
+vntex/vnr/vncsc10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnitt10.pfb></usr
+/share/texmf/fonts/type1/vntex/vnr/vnr10.pfb></usr/share/texmf/fonts/type1/vnte
+x/vnr/vnr12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr6.pfb></usr/share/te
+xmf/fonts/type1/vntex/vnr/vnr8.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr9
+.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnti10.pfb></usr/share/texmf/fonts
+/type1/vntex/vnr/vnti9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb><
+/usr/share/texmf/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on sr.pdf (27 pages, 318038 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 131072)
+ 504 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 131072)
  238 words of extra memory for PDF output out of 10000 (max. 10000000)
 
