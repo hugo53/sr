@@ -9,9 +9,9 @@
 
 % change according to folder and file names
 \ifpdf
-    \graphicspath{{X/figures/PNG/}{X/figures/PDF/}{X/figures/}}
+    \graphicspath{{3/figures/PNG/}{3/figures/PDF/}{3/figures/}}
 \else
-    \graphicspath{{X/figures/EPS/}{X/figures/}}
+    \graphicspath{{3/figures/EPS/}{3/figures/}}
 \fi
 
 %: ----------------------- contents from here ------------------------
@@ -23,8 +23,18 @@
 
 \section{Hệ thống theo dõi tin tức $\mathcal{N}$\texttt{ewSOMoni}}
 
+%\figuremacro{largepotato}{Mô hình hệ thống}{ok}}
+%\figuremacro{system}{Mô hình hệ thống}}
 
-\section{}
+\begin{figure}[htbp]
+		\centering
+		\includegraphics[width=1\textwidth]{system}
+		\caption{\textbf{Mô hình hệ thống}}
+		\label{test}
+\end{figure}
+
+
+\section{Kết hợp luật và Maximum Entropy trong trích xuất sự kiện}
 
 
 % ---------------------------------------------------------------------------

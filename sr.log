@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  14 MAR 2012 21:39
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  18 MAR 2012 17:42
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode\input sr.tex
@@ -114,6 +114,33 @@ Package: appendix 2002/08/06 v1.2 extra appendix facilities
 \c@@ppsavesec=\count91
 \c@@ppsaveapp=\count92
 )
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+) (./tipa.sty
+Package: tipa 2001/12/31 TIPA version 1.1
+
+(/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+
+! Package fontenc Error: Encoding file `t3enc.def' not found.
+(fontenc)                You might have misspelt the name of the encoding.
+
+See the fontenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \ProcessOptions*
+                     
+Necessary code for this encoding was not loaded.
+Thus calling the encoding later on will produce further error messages.
+
+(/usr/share/texmf/tex/latex/base/ot1enc.def
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+)))
 (/usr/share/texmf/tex/latex/vntex/vietnam.sty
 Package: vietnam 2006/10/18 v1.2 support for Vietnamese
 
@@ -532,8 +559,8 @@ Document Style `algorithmic' - environment
 Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count95
 \calc@Bcount=\count96
-\calc@Adimen=\dimen110
-\calc@Bdimen=\dimen111
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
 \calc@Askip=\skip52
 \calc@Bskip=\skip53
 LaTeX Info: Redefining \setlength on input line 75.
@@ -558,11 +585,11 @@ Package: amstext 2000/06/29 v2.01
 (/usr/share/texmf/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks21
-\ex@=\dimen112
+\ex@=\dimen114
 ))
 (/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen113
+\pmbraise@=\dimen115
 )
 (/usr/share/texmf/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -579,7 +606,7 @@ LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen114
+\big@size=\dimen116
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \macc@depth=\count106
@@ -592,12 +619,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \column@=\count111
 \maxfields@=\count112
 \andhelp@=\toks23
-\eqnshift@=\dimen115
-\alignsep@=\dimen116
-\tagshift@=\dimen117
-\tagwidth@=\dimen118
-\totwidth@=\dimen119
-\lineht@=\dimen120
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
 \@envbody=\toks24
 \multlinegap=\skip58
 \multlinetaggap=\skip59
@@ -619,7 +646,7 @@ File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 (/usr/share/texmf/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
 \FN@temptoken=\toks26
-\footnotemargin=\dimen121
+\footnotemargin=\dimen123
 \c@pp@next@reset=\count113
 \c@@fnserial=\count114
 Package footmisc Info: Declaring symbol style bringhurst on input line 817.
@@ -642,16 +669,16 @@ LaTeX Info: Redefining \cite on input line 602.
 Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
 \c@tracingmulticols=\count116
 \mult@box=\box30
-\multicol@leftmargin=\dimen122
+\multicol@leftmargin=\dimen124
 \c@unbalance=\count117
 \c@collectmore=\count118
 \doublecol@number=\count119
 \multicoltolerance=\count120
 \multicolpretolerance=\count121
-\full@width=\dimen123
-\page@free=\dimen124
-\premulticols=\dimen125
-\postmulticols=\dimen126
+\full@width=\dimen125
+\page@free=\dimen126
+\premulticols=\dimen127
+\postmulticols=\dimen128
 \multicolsep=\skip62
 \multicolbaselineskip=\skip63
 \partial@page=\box31
@@ -679,9 +706,9 @@ Package: multicol 2006/05/18 v1.6g multicolumn formatting (FMi)
 \@tempa=\box53
 \c@columnbadness=\count122
 \c@finalcolumnbadness=\count123
-\last@try=\dimen127
-\multicolovershoot=\dimen128
-\multicolundershoot=\dimen129
+\last@try=\dimen129
+\multicolovershoot=\dimen130
+\multicolundershoot=\dimen131
 \mult@nat@firstbox=\box54
 \colbreak@box=\box55
 )
@@ -696,8 +723,8 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (/usr/share/texmf/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen130
-\nom@tempdim=\dimen131
+\nomlabelwidth=\dimen132
+\nom@tempdim=\dimen133
 \nomitemsep=\skip64
 )
 \@glossaryfile=\write3
@@ -715,7 +742,7 @@ Package ifpdf Info: pdfTeX in pdf mode detected.
 )
 (/usr/share/texmf/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
-\@linkdim=\dimen132
+\@linkdim=\dimen134
 \Hy@linkcounter=\count124
 \Hy@pagecounter=\count125
 
@@ -777,8 +804,8 @@ Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 2599.
 \Fld@menulength=\count126
-\Field@Width=\dimen133
-\Fld@charsize=\dimen134
+\Field@Width=\dimen135
+\Fld@charsize=\dimen136
 \Choice@toks=\toks27
 \Field@toks=\toks28
 Package hyperref Info: Hyper figures ON on input line 3100.
@@ -795,22 +822,20 @@ Package hyperref Info: Link coloring OFF on input line 3122.
 File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
 \Fld@listcount=\count130
 )
-(/usr/share/texmf/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
-)
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 221.
+less on input line 218.
 
 )
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
 
 (./Latex/Macros/MacroFile1.tex) (./sr.aux (./0_frontmatter/abstract.aux)
-(./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux)
-(./9_backmatter/appendix.aux))
+(./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux
+
+LaTeX Warning: Label `system' multiply defined.
+
+) (./9_backmatter/appendix.aux))
 \openout1 = `sr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -875,7 +900,7 @@ LaTeX Info: Redefining \pageref on input line 38.
 
 Package backref Info: ** backref set up for natbib ** on input line 38.
 
-(./titles/title.tex <./resources/img/coltech.jpg, id=114, 224.84pt x 224.84pt>
+(./titles/title.tex <./resources/img/coltech.jpg, id=130, 224.84pt x 224.84pt>
 File: ./resources/img/coltech.jpg Graphic file (type jpg)
 
 <use ./resources/img/coltech.jpg>
@@ -935,7 +960,10 @@ Package hyperref Warning: No destination for bookmark of \addcontentsline,
 Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\texttilde+e' on input line 81.
 
-(./sr.lof)
+(./sr.lof
+LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 5.
+)
 \tf@lof=\write7
 \openout7 = `sr.lof'.
 
@@ -1003,24 +1031,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.124 \noindent
-                Ngo√†i ra, kh√≥ khƒÉn trong x·ª≠ l√Ω d·ªØ li·ªáu l·ªõn c≈©ng...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 ! Undefined control sequence.
 <recently read> \noident 
                          
-l.139 \noident
+l.138 \noident
                Nh·ªØng ph∆∞∆°ng ph√°p ƒë√£ tr√¨nh b√†y ·ªü tr√™n ch·ªß y·∫øu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1037,41 +1051,59 @@ and I'll forget about whatever was undefined.
 
 
 
-]
-Overfull \hbox (4.98561pt too wide) in paragraph at lines 23--23
-[]\T5/cmr/bx/n/14.4 TrΩch xußt s¸ kiªn s˚ dˆng lu™t lexico--syntactic|lexico--
- []
-
-) [12]
+]) [12]
 \openout2 = `3/ourmethod.aux'.
 
  (./3/ourmethod.tex
  3.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 ...Øt c·ªßa \texttt{News Online Monitoring}}}
+                                                   c√πng  ph∆∞∆°ng ph√°p lai...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 ...Øt c·ªßa \texttt{News Online Monitoring}}}
+                                                   c√πng  ph∆∞∆°ng ph√°p lai...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 24.
+(hyperref)                removing `math shift' on input line 26.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 24.
+(hyperref)                removing `math shift' on input line 26.
 
-
-Overfull \hbox (0.52516pt too wide) in paragraph at lines 27--27
-[]\T5/cmr/bx/n/14.4 Ph˜Ïng ph°p k∏t hÒp lu™t v† Max-i-mum En-tropy trong
- []
-
-) [13
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+ [13
 
 
 
 ]
+<3/figures/system.jpg, id=397, 803.0pt x 602.25pt>
+File: 3/figures/system.jpg Graphic file (type jpg)
+ <use 3/figures/system.jpg>)
+[14 <./3/figures/system.jpg>] [15]
 \openout2 = `9_backmatter/appendix.aux'.
 
  (./9_backmatter/appendix.tex
 Ph\d {u} l\d {u}c A.
 ! Misplaced alignment tab character &.
-l.23     B√°o Khoa h·ªçc &
-                           Ph√°t tri·ªÉn - http://khoahocphattrien.com.vn
+<argument> B√°o Khoa h·ªçc &
+                             Ph√°t tri·ªÉn
+l.23 \textbf{B√°o Khoa h·ªçc & Ph√°t tri·ªÉn}
+                                               \hspace{0.5in} \href{http://k...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1080,8 +1112,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.27     B√°o Th·∫ø gi·ªõi &
-                             Vi·ªát nam - http://www.tgvn.com.vn
+<argument> B√°o Th·∫ø gi·ªõi &
+                               Vi·ªát nam
+l.27 \textbf{B√°o Th·∫ø gi·ªõi & Vi·ªát nam}
+                                              \hspace{0.5in} \href{http://ww...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1090,8 +1124,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.33     B√°o Khoa h·ªçc &
-                           ƒê·ªùi s·ªëng (Bee.net.vn) - http://bee.net.vn/
+<argument> B√°o Khoa h·ªçc &
+                             ƒê·ªùi s·ªëng (Bee.net.vn)
+l.33 ...o Khoa h·ªçc & ƒê·ªùi s·ªëng (Bee.net.vn)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1100,8 +1136,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.52     B√°o ƒê·ªùi s·ªëng &
-                              Ph√°p lu·∫≠t (ƒê·ªùi s·ªëng & Ph√°p lu·∫≠t) - ...
+<argument> B√°o ƒê·ªùi s·ªëng &
+                                Ph√°p lu·∫≠t (ƒê·ªùi s·ªëng & Ph√°p lu·∫≠t)
+l.52 ...√°p lu·∫≠t (ƒê·ªùi s·ªëng & Ph√°p lu·∫≠t)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1110,8 +1148,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.52 ...ªùi s·ªëng & Ph√°p lu·∫≠t (ƒê·ªùi s·ªëng &
-                                                   Ph√°p lu·∫≠t) - http://ww...
+<argument> ...ªëng & Ph√°p lu·∫≠t (ƒê·ªùi s·ªëng &
+                                                   Ph√°p lu·∫≠t)
+l.52 ...√°p lu·∫≠t (ƒê·ªùi s·ªëng & Ph√°p lu·∫≠t)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1120,8 +1160,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.63     B√°o Gia ƒë√¨nh &
-                           X√£ h·ªôi (Giadinh.net) - http://giadinh.net.vn
+<argument> B√°o Gia ƒë√¨nh &
+                             X√£ h·ªôi (Giadinh.net)
+l.63 ...B√°o Gia ƒë√¨nh & X√£ h·ªôi (Giadinh.net)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1130,8 +1172,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.64     B√°o GD&
-                 Tƒê (Gi√°o d·ª•c Th·ªùi ƒë·∫°i) - http://giaoducthoidai.vn
+<argument> B√°o GD&
+                   Tƒê (Gi√°o d·ª•c Th·ªùi ƒë·∫°i)
+l.64 ...f{B√°o GD&Tƒê (Gi√°o d·ª•c Th·ªùi ƒë·∫°i)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1140,8 +1184,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83     B√°o ƒê·ªùi s·ªëng &
-                              Ph√°p lu·∫≠t (Nguoiduatin.vn) - http://nguoidu...
+<argument> B√°o ƒê·ªùi s·ªëng &
+                                Ph√°p lu·∫≠t (Nguoiduatin.vn)
+l.83 ...ùi s·ªëng & Ph√°p lu·∫≠t (Nguoiduatin.vn)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1150,8 +1196,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.84     Nh√† b√°o &
-                     C√¥ng lu·∫≠n - http://congluan.vn
+<argument> Nh√† b√°o &
+                       C√¥ng lu·∫≠n
+l.84 \textbf{Nh√† b√°o & C√¥ng lu·∫≠n}
+                                        \hspace{0.5in} \href{http://congluan...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1160,8 +1208,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.89     B√°o Ph√°p lu·∫≠t &
-                             X√£ h·ªôi (Ph√°p lu·∫≠t & X√£ h·ªôi) - http://w...
+<argument> B√°o Ph√°p lu·∫≠t &
+                               X√£ h·ªôi (Ph√°p lu·∫≠t & X√£ h·ªôi)
+l.89 ...≠t & X√£ h·ªôi (Ph√°p lu·∫≠t & X√£ h·ªôi)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1170,8 +1220,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.89 ...o Ph√°p lu·∫≠t & X√£ h·ªôi (Ph√°p lu·∫≠t &
-                                                   X√£ h·ªôi) - http://www.p...
+<argument> ...p lu·∫≠t & X√£ h·ªôi (Ph√°p lu·∫≠t &
+                                                   X√£ h·ªôi)
+l.89 ...≠t & X√£ h·ªôi (Ph√°p lu·∫≠t & X√£ h·ªôi)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1180,8 +1232,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.92     B√°o ƒê·ªùi s·ªëng &
-                              Ph√°p lu·∫≠t (Phunutoday.vn) - http://phunutod...
+<argument> B√°o ƒê·ªùi s·ªëng &
+                                Ph√°p lu·∫≠t (Phunutoday.vn)
+l.92 ...ªùi s·ªëng & Ph√°p lu·∫≠t (Phunutoday.vn)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1190,8 +1244,10 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.103     B√°o S·ª©c kh·ªèe &
-                              ƒê·ªùi s·ªëng (S·ª©c Kh·ªèe ƒê·ªùi S·ªëng) - h...
+<argument> B√°o S·ª©c kh·ªèe &
+                               ƒê·ªùi s·ªëng (S·ª©c Kh·ªèe ƒê·ªùi S·ªëng)
+l.103 ...·ªùi s·ªëng (S·ª©c Kh·ªèe ƒê·ªùi S·ªëng)}
+                                                    \hspace{0.5in} \href{htt...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -1200,190 +1256,82 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (6.53404pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 24h.com.vn - http://www21.24h.com.vn Viet-nam-Net (2Sao) - ht
-tp://2sao.vietnamnet.vn
+Overfull \hbox (6.60405pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o ^^^ßt Viªt (B°o ^^^ßt Viªt QuËc ph·ng)   []\T5/cmr/m/n/1
+0.95 http://quocphong.baodatviet.vn[] 
  []
 
 
-Overfull \hbox (8.0686pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://antg.cand.com.vn B°o CÊng An Nh•n D•n (ANTGCT) - http:
-//antg.cand.com.vn
+Overfull \hbox (20.02733pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o ^^^¶u T˜ Ch˘ng Kho°n (^^^¶u t˜ CK)   []\T5/cmr/m/n/10.95
+ http://www.tinnhanhchungkhoan.vn[] 
  []
 
 
-Overfull \hbox (96.78839pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://khoahoc.baodatviet.vn B°o ^^^ßt Viªt (B°o ^^^ßt Viªt -
- QuËc ph·ng) - http://quocphong.baodatviet.vn
+Overfull \hbox (47.60335pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o Diπn ^^^†n Doanh Nghiªp (Diπn ^^_†n Doanh nghiªp)   []\T
+5/cmr/m/n/10.95 http://www.dddn.com.vn[] 
  []
 
 
-Overfull \hbox (26.90816pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 - http://giaothongvantai.com.vn B°o Khoa hÂc  Ph°t tri∫n - ht
-tp://khoahocphattrien.com.vn
+Overfull \hbox (53.04959pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o ^^^Ìi sËng  Ph°p lu™t (^^^Ìi sËng  Ph°p lu™t)   []\T5/cm
+r/m/n/10.95 http://www.doisongphapluat.com.vn[] 
  []
 
 
-Overfull \hbox (27.48479pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 B°o Ng˜Ìi cao tuÍi - http://nguoicaotuoi.org.vn B°o NÊng nghi
-ªp VN - http://nongnghiep.vn
+Overfull \hbox (2.27466pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o Ph°p lu™t TPHCM (Ph°p lu™t TPHCM)   []\T5/cmr/m/n/10.95 
+http://www.phapluattp.vn[] 
  []
 
 
-Overfull \hbox (41.44144pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://thethaovanhoa.vn B°o Th∫ Thao VN (B°o TTVN) - http://w
-ww.thethaovietnam.com.vn
+Overfull \hbox (7.86371pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 T§p chΩ Ho§t ^^^Îng Khoa HÂc (T§p chΩ H^^^KH)   []\T5/cmr/m/
+n/10.95 http://www.tchdkh.org.vn[] 
  []
 
 
-Overfull \hbox (68.47633pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://bee.net.vn/ B‚ng ^^^° 24H - http://www.bongda24h.vn B‚
-ng ^^_° sË - http://www.bongdaso.com
+Overfull \hbox (34.69455pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o Thanh Ni∂n (Thanh Ni∂n Th∫ thao)   []\T5/cmr/m/n/10.95 h
+ttp://www.thanhnien.com.vn/thethao[] 
  []
 
 
-Overfull \hbox (85.2306pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 PHCM) - http://www.congan.com.vn CT-T^^^T ChΩnh phı (Chinh-ph
-u.vn) - http://baodientu.chinhphu.vn
+Overfull \hbox (51.85443pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o Thanh Ni∂n (Thanh Ni∂n Tu¶n san)   []\T5/cmr/m/n/10.95 h
+ttp://www.thanhnien.com.vn/tnotuansan[] 
  []
 
 
-Overfull \hbox (11.73405pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 ^^^o†n K∏t) - http://baodaidoanket.net B°o D•n TrΩ (D•n TrΩ) 
-- http://www.dantri.com.vn
+Overfull \hbox (61.86374pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o Thanh Ni∂n (Thanh ni∂n WC 2010)   []\T5/cmr/m/n/10.95 ht
+tp://www.thanhnien.com.vn/worldcup2010[] 
  []
 
 
-Overfull \hbox (6.37962pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://gafin.vn Game4V - http://news.game4v.vn GameK - http:/
-/gamek.channelvn.net
+Overfull \hbox (30.18643pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o ^^_iªn t˚ Th∏ GiÓi ^^^iªn Énh (Th∏ GiÓi ^^^iªn Énh)   []
+\T5/cmr/m/n/10.95 http://thegioidienanh.vn[] 
  []
 
 
-Overfull \hbox (30.87662pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 Ga-methu.net - http://gamethu.net B°o Gia ^^_ºnh  X¢ hÎi (Gi-
-ad-inh.net) - http://giadinh.net.vn
+Overfull \hbox (16.00949pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o TuÍi Tr¥ (TuÍi tr¥ Tuy∫n sinh)   []\T5/cmr/m/n/10.95 htt
+p://chuyentrang.tuoitre.vn/tuyensinh/[] 
  []
 
 
-Overfull \hbox (19.54684pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 Kinh t∏ ^^^Ê Th‡ (KT^^^T) - http://www.ktdt.com.vn KTNT - htt
-p://kinhtenongthon.com.vn
+Overfull \hbox (26.1633pt too wide) in paragraph at lines 3--161
+\T5/cmr/bx/n/10.95 B°o TuÍi Tr¥ (TuÍi tr¥ WC 2010)   []\T5/cmr/m/n/10.95 http:/
+/chuyentrang.tuoitre.vn/WorldCup2010[] 
  []
 
-
-Overfull \hbox (65.71033pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://www.petrotimes.vn B°o Ph°p lu™t  X¢ hÎi (Ph°p lu™t  X¢
- hÎi) - http://www.phapluatxahoi.vn
- []
-
-
-Overfull \hbox (55.18755pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 VN - http://www.phapluatvn.vn B°o ^^^Ìi sËng  Ph°p lu™t (Phun
-uto-day.vn) - http://phunutoday.vn
- []
-
-
-Overfull \hbox (2.73184pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 B°o Qu•n ^^^Îi Nh•n D•n (Q^^^ND) - http://www.qdnd.vn Saga.vn
- - http://www.saga.vn
- []
-
-
-Overfull \hbox (106.03282pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 SaigonNews - http://www.saigonnews.vn Saigon-Times On-line (S
-aigon-Times) - http://www.thesaigontimes.vn
- []
-
-
-Overfull \hbox (9.2686pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 S†n OTC - http://news.sanotc.com B°o S†i G·n Gi£i Ph‚ng (SGGP
-) - http://sggp.org.vn
- []
-
-
-Overfull \hbox (18.7585pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 Stock-Biz - http://stockbiz.vn Truy∑n thÊng T†i chΩnh Stox-Pl
-us (Stox-Plus) - http://stox.vn/
- []
-
-
-Overfull \hbox (41.13736pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 hin.net - http://www.tamnhin.net T§p chΩ ^^^ïP On-line (T§p c
-hΩ ^^^ïP) - http://www.dep.com.vn
- []
-
-
-Overfull \hbox (47.06946pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 chΩnh - http://tapchitaichinh.vn/ B°o Thanh Ni∂n (Thanh Ni∂n)
- - http://www.thanhnien.com.vn
- []
-
-
-Overfull \hbox (7.56683pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 B°o Thanh Ni∂n (Thanh ni∂n - WC 2010) - http://www.thanhnien.
-com.vn/worldcup2010
- []
-
-
-Overfull \hbox (23.95851pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 B°o Ti∑n Phong (Ti∑n Phong) - http://www.tienphongonline.com.
-vn Tiin.vn - http://tiin.vn
- []
-
-
-Overfull \hbox (13.34569pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 Tin t˘c Du l‡ch - http://www.dulichvn.org.vn Tin T˘c On-line 
-- http://tintuconline.com.vn
- []
-
-
-Overfull \hbox (46.91743pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://www.thongtincongnghe.com Tu¶n Viet-nam-net (Tu¶n Viªt 
-Nam) - http://tuanvietnam.net
- []
-
-
-Overfull \hbox (105.33218pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 http://vieclam.tuoitre.vn/ B°o TuÍi Tr¥ (TuÍi tr¥ - WC 2010) 
-- http://chuyentrang.tuoitre.vn/WorldCup2010
- []
-
-
-Overfull \hbox (32.40991pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 Viet-nam-Net (VEF) - http://vef.vn Viet-nam Eco-nomic News On
--line (VEN) - http://ven.org.vn
- []
-
-
-Overfull \hbox (64.82727pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 ThÊng Tßn X¢ VN (Viet-nam Plus) - http://www.vietnamplus.vn V
-iet-nam-Net - http://vietnamnet.vn
- []
-
-
-Overfull \hbox (8.60193pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 ThÌi b°o Kinh T∏ (VnEcon-omy) - http://vneconomy.vn Vn-Ex-pre
-ss - http://vnexpress.net
- []
-
-
-Overfull \hbox (15.29068pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 (XHTT) - http://xahoithongtin.com.vn Xin-hx-inh.com.vn - http
-://xinhxinh.com.vn XZone
- []
-
-
-Overfull \hbox (50.01912pt too wide) in paragraph at lines 3--162
-\T5/cmr/m/n/10.95 - http://xzone.vn Zing - http://www.zing.vn Zing (Zing - Th∫ 
-thao) - http://thethao.zing.vn/news 
- []
-
-[14
+[16
 
 
 
-] [15] [16]) [17] (./9_backmatter/references.tex (./sr.brf)
+] [17] [18] [19] [20]) [21] (./9_backmatter/references.tex (./sr.brf)
 \tf@brf=\write9
 \openout9 = `sr.brf'.
 
@@ -1412,36 +1360,43 @@ l.7 \begin{flushright}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[18
+[22
 
 
-] [19]) [20] (./sr.aux (./0_frontmatter/abstract.aux)
+] [23]) [24] (./sr.aux (./0_frontmatter/abstract.aux)
 (./1_introduction/introduction.aux) (./2/method.aux) (./3/ourmethod.aux)
-(./9_backmatter/appendix.aux)) ) 
+(./9_backmatter/appendix.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7580 strings out of 256216
- 96333 string characters out of 1917073
- 168668 words of memory out of 1500000
- 10511 multiletter control sequences out of 10000+200000
- 38846 words of font info for 93 fonts, out of 1200000 for 2000
+ 8134 strings out of 256216
+ 102885 string characters out of 1917073
+ 173920 words of memory out of 1500000
+ 11037 multiletter control sequences out of 10000+200000
+ 39157 words of font info for 94 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 42i,11n,46p,2442b,539s stack positions out of 5000i,500n,6000p,200000b,15000s
-</usr/share/texmf/fonts/type1/bluesky/cm/cmmi10
-.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts
-/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/ams/eusm10.pf
-b></usr/share/texmf/fonts/type1/vntex/vnr/vnbx10.pfb></usr/share/texmf/fonts/ty
-pe1/vntex/vnr/vnbx12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx9.pfb></us
-r/share/texmf/fonts/type1/vntex/vnr/vnbxti10.pfb></usr/share/texmf/fonts/type1/
-vntex/vnr/vncsc10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnitt10.pfb></usr
-/share/texmf/fonts/type1/vntex/vnr/vnr10.pfb></usr/share/texmf/fonts/type1/vnte
-x/vnr/vnr12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr6.pfb></usr/share/te
-xmf/fonts/type1/vntex/vnr/vnr8.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr9
-.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnti10.pfb></usr/share/texmf/fonts
-/type1/vntex/vnr/vnti9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb><
-/usr/share/texmf/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on sr.pdf (27 pages, 318038 bytes).
+ 42i,14n,46p,2442b,539s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/t
+ype1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi9.pfb></
+usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/
+bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/s
+hare/texmf/fonts/type1/bluesky/ams/eusm10.pfb></usr/share/texmf/fonts/type1/pub
+lic/cmex/fmex9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx10.pfb></usr/sha
+re/texmf/fonts/type1/vntex/vnr/vnbx12.pfb></usr/share/texmf/fonts/type1/vntex/v
+nr/vnbx9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbxti10.pfb></usr/share/t
+exmf/fonts/type1/vntex/vnr/vncsc10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/
+vnitt10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr10.pfb></usr/share/texmf
+/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr6.p
+fb></usr/share/texmf/fonts/type1/vntex/vnr/vnr8.pfb></usr/share/texmf/fonts/typ
+e1/vntex/vnr/vnr9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnti10.pfb></usr/
+share/texmf/fonts/type1/vntex/vnr/vnti9.pfb></usr/share/texmf/fonts/type1/vntex
+/vnr/vntt10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt12.pfb></usr/share/
+texmf/fonts/type1/vntex/vnr/vntt9.pfb>
+Output written on sr.pdf (31 pages, 430502 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 131072)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 737 PDF objects out of 1000 (max. 8388607)
+ 113 named destinations out of 1000 (max. 131072)
+ 275 words of extra memory for PDF output out of 10000 (max. 10000000)
 

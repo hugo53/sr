@@ -1,0 +1,1 @@
+pdflatex \\nonstopmode\\input sr.tex

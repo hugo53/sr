@@ -3,7 +3,7 @@
 
 % insert a centered figure with caption and description
 % parameters 1:filename, 2:title, 3:description and label
-\newcommand{\figuremacro}[2]{
+\newcommand{\figuremacro}[3]{
 	\begin{figure}[htbp]
 		\centering
 		\includegraphics[width=1\textwidth]{#1}

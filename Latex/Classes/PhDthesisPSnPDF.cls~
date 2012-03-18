@@ -46,11 +46,9 @@
 \usepackage{fancyhdr} % for better header layout
 \usepackage{eucal}
 \usepackage[vietnam,english]{babel}
-%\addto\captionsvietnameses{
-%        %\renewcommand{\figurename}{Abb.}%
-%        %\renewcommand{\tablename}{Tab.}%
-%        \renewcommand{\abstractname}{Tóm tắt nội dung}%
-%}
+\usepackage{appendix}
+\usepackage[pdftex]{graphicx}
+\usepackage{tipa}
 
 \usepackage[utf8]{vietnam}
 \usepackage[utf8]{inputenc}

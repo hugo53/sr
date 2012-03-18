@@ -47,11 +47,8 @@
 \usepackage{eucal}
 \usepackage[vietnam,english]{babel}
 \usepackage{appendix}
-%\addto\captionsvietnameses{
-%        %\renewcommand{\figurename}{Abb.}%
-%        %\renewcommand{\tablename}{Tab.}%
-%        \renewcommand{\abstractname}{Tóm tắt nội dung}%
-%}
+\usepackage[pdftex]{graphicx}
+\usepackage{tipa}
 
 \usepackage[utf8]{vietnam}
 \usepackage[utf8]{inputenc}
