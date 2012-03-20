@@ -1,0 +1,36 @@
+% this file is called up by thesis.tex
+% content in this file will be fed into the main document
+
+\chapter{Phš¢ßš¢½ng pháp trích xuš¢¤t sš¢ñ kiš¢®n} % top level followed by section, subsection
+
+
+% ----------------------- contents from here ------------------------
+
+\section{‚Ğš¢¸nh ngh„µa sš¢ñ kiš¢®n}
+%Nêu ‚ğš¢¸nh ngh„µa š¢· ‚ğây, bài Online New Event Detection and tracking
+\noindent Theo Allan, mš¢µt tin tš¢Ñc ‚ğš¢ßš¢şc cho là phš¢än ánh mš¢µt sš¢ñ kiš¢®n nš¢ªu nó có ‚ğš¢ü ba yš¢ªu tš¢¯: chš¢ü thš¢¬, thš¢¶i gian, ‚ğš¢¸a ‚ğiš¢¬m \cite{JRV98}. Chš¢ü thš¢¬ có thš¢¬ là con ngš¢ßš¢¶i, sš¢ñ vš¢§t hoš¢£c sš¢ñ viš¢®c. C„ıng theo công bš¢¯ này, ‚ğš¢¬ ‚ğš¢¸nh ngh„µa rõ ràng thš¢ª nào là sš¢ñ kiš¢®n rš¢¤t khó bš¢·i tính nhš¢§p nhš¢¢ng liên quan tš¢¾i các yš¢ªu tš¢¯ ngš¢æ cš¢änh, ngôn ngš¢æ, v‚ãn hóa. Ví dš¢ø, \emph{Chiš¢«u ngày \texttt{5/3/2012}, tai nš¢Õn giao thông tš¢Õi \texttt{ngã tš¢ß Khuš¢¤t Duy Tiš¢ªn} làm \texttt{2 ngš¢ßš¢¶i} tš¢Ø vong} là mš¢µt sš¢ñ kiš¢®n nói vš¢« tai nš¢Õn giao thông. Nhš¢ßng \emph{Theo báo cáo cš¢üa cš¢änh sát giao thông \texttt{Hà Nš¢µi} \texttt{chiš¢«u nay}, sš¢¯ \texttt{ngš¢ßš¢¶i} chš¢ªt vì tai nš¢Õn giao thông giš¢äm 30\% so vš¢¾i cùng k¼ n‚ãm ngoái} lš¢Õi không phš¢äi là mš¢µt sš¢ñ kiš¢®n dù có ‚ğš¢ü 3 yš¢ªu tš¢¯ kš¢¬ trên.
+\\
+\noindent Trong phš¢Õm vi giš¢äi quyš¢ªt bài toán trích xuš¢¤t sš¢ñ kiš¢®n, viš¢®c ‚ğš¢¸nh ngh„µa rõ ràng sš¢ñ kiš¢®n mà nghiên cš¢Ñu quan tâm luôn là yêu cš¢¥u trš¢ßš¢¾c tiên. Ban ‚ğš¢¥u  hš¢µi nghš¢¸ MUC chš¢ï quan tâm các sš¢ñ kiš¢®n vš¢« hoš¢Õt ‚ğš¢µng quân sš¢ñ. Sau ‚ğó, tš¢¾i lš¢¥n tš¢± chš¢Ñc thš¢Ñ 3 mš¢· rš¢µng thêm các sš¢ñ kiš¢®n vš¢« khš¢üng bš¢¯, ‚ğš¢¥u tš¢ß mš¢Õo hiš¢¬m, tai nš¢Õn máy bay, \ldots Các thuš¢µc tính cš¢¥n phš¢äi có cš¢üa mš¢µt sš¢ñ kiš¢®n mà MUC yêu cš¢¥u gš¢°m có: tác nhân, thš¢¶i gian, ‚ğš¢¸a ‚ğiš¢¬m và các tác ‚ğš¢µng cš¢üa nó.
+\\
+\noindent š£· chš¢ßš¢½ng trình ACE, dš¢Õng sš¢ñ kiš¢®n và các thuš¢µc tính vš¢« sš¢ñ kiš¢®n ‚ğš¢ßš¢şc quy ‚ğš¢¸nh chš¢£t chš¢¨ hš¢½n vš¢¾i tám dš¢Õng sau: LIFE (sš¢ñ sš¢¯ng--chš¢ªt), MOVEMENT (sš¢ñ di chuyš¢¬n), TRANSACTION (giao dš¢¸ch), BUSINESS (kinh tš¢ª), CONFLICT (xung ‚ğš¢µt), CONTACT (giao thiš¢®p, gš¢£p gš¢Ş), PERSONNEL (nhš¢§n--‚ğuš¢±i viš¢®c), JUSTICE (pháp lı). Mš¢²i dš¢Õng sš¢ñ kiš¢®n lš¢Õi có phân biš¢®t tš¢×ng dš¢Õng con. Ví dš¢ø nhš¢ß LIFE có các dš¢Õng  sš¢ñ kiš¢®n  con BE-BORN (chào ‚ğš¢¶i), INJURE (bš¢¸ thš¢ßš¢½ng), DIE (chš¢ªt) hay PERSONNEL có START--POSITION (vš¢¸ trí khi nhš¢§n viš¢®c), END--POSITION (vš¢¸ trí trš¢ßš¢¾c khi bš¢¸ thôi viš¢®c), NOMINATE (bš¢± nhiš¢®m), ELECT (bš¢¥u chš¢÷n), \ldots
+\\
+\noindent Hš¢¥u hš¢ªt nhš¢æng nghiên cš¢Ñu ‚ğš¢ßš¢şc trích dš¢çn trong báo cáo này ‚ğš¢«u chš¢ï tš¢§p trung vào mš¢µt l„µnh vš¢ñc cš¢ø thš¢¬. \cite{MM09}, \cite{YKW09} khai thác các sš¢ñ kiš¢®n trên trang cá nhân.  \cite{CVJ09}, \cite{CHR04} tš¢§p trung vào sš¢ñ kiš¢®n y sinh hš¢÷c. \cite{HJM08}, \cite{JHP07} thš¢ñc hiš¢®n trích xuš¢¤t sš¢ñ kiš¢®n thš¢äm hš¢÷a, mš¢¯i nguy hiš¢¬m ‚ğe dš¢÷a. Ngoài ra, sš¢ñ kiš¢®n vš¢« giš¢äi thš¢ßš¢·ng Nobel \cite{FHH06}, sš¢ñ kiš¢®n vš¢« chš¢Ñng khoán \cite{FHD02}, sš¢ñ kiš¢®n vš¢« ‚ğš¢¥u tš¢ß tài chính \cite{CM00} hay các sš¢ñ kiš¢®n vš¢« chính trš¢¸ \cite{FK08}, \cite{CM00} c„ıng ‚ğš¢ßš¢şc quan tâm.
+\\
+\noindent Nghiên cš¢Ñu này thš¢ñc hiš¢®n trích xuš¢¤t sš¢ñ kiš¢®n tš¢× các bš¢än tin thông báo hš¢¢ng ngày cho các loš¢Õi sš¢ñ kiš¢®n nói vš¢« tai nš¢Õn giao thông, các vi phš¢Õm hình sš¢ñ, các vš¢ø cháy nš¢±. Mš¢µt cách tš¢ßš¢¶ng minh,  sš¢ñ kiš¢®n ‚ğš¢ßš¢şc ‚ğš¢¸nh ngh„µa  rš¢¢ng phš¢äi có ‚ğš¢ü ba thuš¢µc tính: chš¢ü thš¢¬, thš¢¶i gian và ‚ğš¢¸a ‚ğiš¢¬m và bš¢¡t buš¢µc thuš¢µc ba dš¢Õng: TAI Nš£ÕN GIAO THÔNG, HÌNH Sš£ñ, CHÁY Nš£±.
+%vš¢çn chš¢ßa ‚ğš¢ßš¢şc ‚ğš¢¸nh ngh„µa thš¢ñc sš¢ñ cš¢ø thš¢¬  khi bš¢än tin sš¢¨ ‚ğš¢ßš¢şc xem xét nš¢ªu có các %yš¢ªu tš¢¯: tác nhân, thš¢¶i gian, ‚ğš¢¸a ‚ğiš¢¬m, các tác ‚ğš¢µng
+
+
+\section{Trích xuš¢¤t sš¢ñ kiš¢®n sš¢Ø dš¢øng luš¢§t lexico--semantic}
+
+
+
+
+\section{Trích xuš¢¤t sš¢ñ kiš¢®n sš¢Ø dš¢øng phš¢ßš¢½ng pháp hš¢÷c giám sát SVM}
+
+
+
+
+
+% ---------------------------------------------------------------------------
+% ----------------------- end of thesis sub-document ------------------------
+% ---------------------------------------------------------------------------

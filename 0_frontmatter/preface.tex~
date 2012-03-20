@@ -14,13 +14,12 @@
     trích chọn thông tin (Information Extraction). Từ năm 1987, trích xuất sự
     kiện đã trở thành đề tài chủ chốt tại hội nghị \emph{Message Understanding
     Conferences} ngay lần tổ
-	chức đầu tiên (MUC--1) \cite{RB96}. Từ đó đến nay, nhiều phương pháp trích
+	chức đầu tiên \cite{RB96}. Từ đó đến nay, nhiều phương pháp trích
     xuất sự kiện đã được đưa ra  và áp dụng trong các hệ thống thực tế như
     BioCaster (\href{http://born.nii.ac.jp/}{http://born.nii.ac.jp/}), HealthMap
     (\href{http://healthmap.org}{http://healthmap.org}), EpiSpider\\
-    (\href{http://www.epispider.org/}{http://www.epispider.org/}), Metro
-    Monitor (\href{ http://www.metromonitor.com/}{
-    http://www.metromonitor.com/}), \ldots \\
+    (\href{http://www.epispider.org/}{www.epispider.org/}), Metro
+    Monitor (\href{ http://www.metromonitor.com/}{www.metromonitor.com/}), \ldots \\
    \noindent Công trình nghiên cứu \textbf{Một phương pháp lai trích xuất sự kiện và áp
    dụng vào hệ thống theo dõi tin tức trực tuyến  $\mathcal{N}$\texttt{ewSOMoni}} khảo sát một số phương pháp trích xuất sự
     kiện tiêu biểu có hiệu quả tốt, đang được sử dụng trong nhiều hệ thống
@@ -44,22 +43,22 @@
 	%Ngoài ra, một hệ thống theo dõi tin tức cũng được nhắc tới trong chương này.
 
 
-        \item[Chương 2.] \emph{Các phương pháp trích xuất sự kiện} đưa ra
-        3 phương pháp trích xuất sự kiện phổ biến và có độ chính xác cao. Hơn
-        nữa, chúng tôi cũng phân tích những thuận lợi của từng phương pháp và
-        cách áp dụng chúng vào mô hình giải quyết của mình để đạt được hiệu quả
-        tốt hơn.
+        %\item[Chương 2.] \emph{Phương pháp trích xuất sự kiện} đưa ra
+        %3 phương pháp trích xuất sự kiện phổ biến và có độ chính xác cao. Hơn
+        %nữa, chúng tôi cũng phân tích những thuận lợi của từng phương pháp và
+        %cách áp dụng chúng vào mô hình giải quyết của mình để đạt được hiệu quả
+        %tốt hơn.
 
-        \item[Chương 3.] \emph{Trích xuất sự kiện dựa trên luật kết hợp học máy
+        \item[Chương 2.] \emph{Trích xuất sự kiện dựa trên luật kết hợp học máy
 		và hệ thống theo dõi tin tức} trình bày phương pháp trích xuất sự kiện
         dựa trên luật kết hợp với phương pháp học máy Maximum Entropy--phương
         pháp chính trong mô hình giải quyết của nghiên cứu này. Đồng thời, mô
 		hình hệ thống theo dõi tin tức cũng sẽ được nêu rõ và phân tích chi
 		tiết.
 
-\newpage
-\thispagestyle{empty}
-        \item[Chương 4.] \emph{Thực nghiệm phương pháp trên hệ thống theo dõi
+%\newpage
+%\thispagestyle{empty}
+        \item[Chương 3.] \emph{Thực nghiệm phương pháp trên hệ thống theo dõi
         tin tức} trình bày quá trình xây dựng hệ thống giám sát tin tức trên cơ
         sở  áp dụng phương pháp đã đề xuất ở Chương 3. Kết quả thực nghiệm và
         đánh giá hiệu quả sẽ được mô tả kỹ lưỡng trong chương này.
