@@ -1,13 +1,13 @@
 %Note:
 %   - Search XYZ: điền tên các bài báo về trích xuất sự kiện trên luật, template
 %: ----------------------- introduction file header -----------------------
-\chapter{Giới thiệu}
+\chapter{Giới thiệu bài toán trích xuất sự kiện}
 
 % the code below specifies where the figures are stored
 \ifpdf
-    \graphicspath{{1_introduction/figures/PNG/}{1_introduction/figures/PDF/}{1_introduction/figures/}}
+    \graphicspath{{1\_introduction/figures/PNG/}{1\_introduction/figures/PDF/}{1\_introduction/figures/}}
 \else
-    \graphicspath{{1_introduction/figures/EPS/}{1_introduction/figures/}}
+    \graphicspath{{1\_introduction/figures/EPS/}{1\_introduction/figures/}}
 \fi
 
 % ----------------------------------------------------------------------
@@ -113,12 +113,10 @@ Ngoài ra, chương trình nâng cao hiệu quả trích xuất sự kiện \tex
     \label{meaning}
     \subsection{Ý nghĩa khoa học}
 
-\noindent Về mặt khoa học, chúng tôi đề xuất phương pháp trích xuất sự kiện dựa trên luật ngữ nghĩa kết hợp với học máy để thu được sự kiện xảy ra hằng ngày thông qua  dữ liệu tin tức tiếng Việt thu thập từ một số nguồn thông tin tin cậy dưới sự cho phép của Bộ Thông Tin và Truyền Thông \footnote{\href{http://mic.gov.vn/vbqppl/Lists/Vn$\%$20bn$\%$20QPPL/DispForm.aspx?ID=6988}{http://mic.gov.vn/vbqppl/Lists/Luat-cong-nghe-thong-tin}}(xem danh sách trang báo điện tử cung cấp tin tức tại  phụ lục \ref{website}, trang \pageref{website}). Luật và học máy Maximum Entropy đều là những phương pháp đã được sử dụng trong các công bố quốc tế như ..., ... . Tuy nhiên, chưa có nghiên cứu nào trên thế giới kết hợp hai phương pháp này với nhau để nâng cao hiệu quả trích xuất và rút ngắn thời gian thực hiện.
-\\ \noindent Trong bối cảnh vấn đề trích xuất sự kiện ở trong nước chưa có nhiều nghiên cứu, công trình của chúng tôi sẽ góp phần thôi thúc đề tài thú vị này được quan tâm nhiều hơn bởi lẽ còn rất nhiều lĩnh vực cần quan tâm. Một số ví dụ như sự kiện Y--SINH, sự kiện KINH TẾ--ĐẦU TƯ, sự kiện CHÍNH TRỊ.
-
+\noindent Về mặt khoa học, chúng tôi đề xuất phương pháp trích xuất sự kiện dựa trên luật ngữ nghĩa kết hợp với học máy để thu được sự kiện xảy ra hằng ngày thông qua  dữ liệu tin tức tiếng Việt thu thập từ một số nguồn thông tin tin cậy dưới sự cho phép của Bộ Thông Tin và Truyền Thông \footnote{\href{http://mic.gov.vn/vbqppl/Lists/Vn$\%$20bn$\%$20QPPL/DispForm.aspx?ID=6988}{http://mic.gov.vn/vbqppl/Lists/Luat-cong-nghe-thong-tin}}(xem danh sách trang báo điện tử cung cấp tin tức tại  phụ lục \ref{website}, trang \pageref{website}). Luật ngữ nghĩa và học máy Maximum Entropy đều là những phương pháp đã được sử dụng trong các công bố quốc tế như \cite{CVJ09}, \cite{RDA05}, \cite{MD04}. Mỗi phương pháp đều có những ưu, nhược điểm riêng. Để nâng cao hiệu quả trích xuất và rút ngắn thời gian thực hiện, kết hợp hai phương pháp trên là cách tiếp cận hợp lý. Tuy nhiên trên thế giới chưa có nghiên cứu nào đi theo hướng tiếp cận này.
+\\ \noindent Trong bối cảnh vấn đề trích xuất sự kiện ở trong nước chưa có nhiều nghiên cứu, công trình của chúng tôi sẽ góp phần thôi thúc đề tài thú vị này được quan tâm nhiều hơn bởi lẽ đây là vấn đề tương đối mới mẻ, có khả năng ứng dụng thực tiễn cao và còn rất nhiều lĩnh vực cần quan tâm. Một số ví dụ như sự kiện Y--SINH, sự kiện KINH TẾ--ĐẦU TƯ, sự kiện CHÍNH TRỊ.
 
 \subsection{Ý nghĩa thực tiễn}
-
 \noindent Xét tới  phương diện  ứng dụng, chúng tôi tiến hành xây dựng một hệ thống theo dõi thông tin trực tuyến. Như đã nói ở mục \ref{motivation}, một hệ thống tổng hợp tin tức tự động chưa đủ thông minh để đáp ứng nhu cầu ngày càng cao của người dùng. Bởi thế, trong nghiên cứu này chúng tôi muốn xây dựng một hệ thống theo dõi, giám sát thông tin sự kiện. Bởi quy mô của một công trình sinh viên nghiên cứu khoa học, nhóm chúng tôi tập trung vào ba loại sự kiện thường xảy ra hằng ngày: tai nạn giao thông, hình sự và cháy nổ. Một cách rõ ràng nhất, sự kiện thuộc ba dạng trên sẽ được trích xuất theo các thông tin: tên sự kiện, thời gian/địa điểm diễn ra sự kiện, các nhân tố tham gia sự kiện. Sau đó, sự kiện được trực quan hóa trên  bản đồ giúp cho người sử dụng dễ dàng theo dõi. Theo khảo sát của nhóm nghiên cứu, một hệ thống như đã mô tả chưa xuất hiện ở Việt Nam. Đề tài nghiên cứu đóng góp vào việc phổ biến hình thức nắm bắt tin tức mới dễ dùng và trực quan hơn so với các hệ thống cung cấp tin tức truyền thống.
 
 
@@ -155,5 +153,8 @@ Sau đó mô hình học sẽ được áp dụng với các bản tin còn lạ
 %Nghiên cứu của Hung cùng cộng sự lại là sự kết hợp giữa \emph{mẫu %lexico--syntactic} và phương pháp gán nhãn \emph{semantic role labeling}.
 
 	\subsection{Một số nghiên cứu liên quan ở trong nước}
+
+    \section{Tóm lược chương}
+
 
 % ----------------------------------------------------------------------
