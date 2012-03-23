@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  24 MAR 2012 01:55
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  24 MAR 2012 02:17
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode\input kdd.tex
@@ -1371,21 +1371,21 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 ]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ohorn' on input line 338.
+(hyperref)                removing `\textacute+\ohorn' on input line 339.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 338.
+(hyperref)                removing `\ohorn' on input line 339.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\d' on input line 338.
+(hyperref)                removing `\d' on input line 339.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 338.
+(hyperref)                removing `\ecircumflex' on input line 339.
 
-
+(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1407,9 +1407,6 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [6
 
 ]
-LaTeX Font Info:    Font shape `T5/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T5/phv/b/n' tried instead on input line 395.
-
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1417,6 +1414,9 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [7
 
 ]
+LaTeX Font Info:    Font shape `T5/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T5/phv/b/n' tried instead on input line 399.
+
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1452,57 +1452,6 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [12
 
 ]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 412.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 412.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 412.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ecircumflex' on input line 412.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 412.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 413.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ohorn' on input line 413.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 413.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ecircumflex' on input line 413.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 413.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\d' on input line 413.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 413.
-
-(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1510,6 +1459,28 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [13
 
 ]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 416.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 416.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 416.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\ecircumflex' on input line 416.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 416.
+
+(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1517,6 +1488,36 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [14
 
 ]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 420.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\ohorn' on input line 420.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 420.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\ecircumflex' on input line 420.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 420.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\d' on input line 420.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acircumflex' on input line 420.
+
+(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1531,37 +1532,6 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [16
 
 ]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 425.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 425.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 425.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textgrave+\ecircumflex' on input line 425.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 425.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\acircumflex' on input line 425.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 425.
-
-(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
@@ -1569,64 +1539,124 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [17
 
 ]
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 430.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 430.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\d' on input line 430.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 430.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ocircumflex' on input line 430.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 430.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 432.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\d' on input line 432.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 432.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ocircumflex' on input line 432.
-
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 432.
-
-(./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
 [18
 
-] <img/hugosystem.jpg, id=645, 643.6547pt x 596.98032pt>
+]
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[19
+
+]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 438.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 438.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\dj' on input line 438.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textgrave+\ecircumflex' on input line 438.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 438.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\acircumflex' on input line 438.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acircumflex' on input line 438.
+
+(./kdd.toc)
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[20
+
+]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 443.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 443.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\d' on input line 443.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 443.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\ocircumflex' on input line 443.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 443.
+
+(./kdd.toc)
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[21
+
+]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 447.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\d' on input line 447.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 447.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textacute+\ocircumflex' on input line 447.
+
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 447.
+
+(./kdd.toc)
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[22
+
+] <img/hugosystem.jpg, id=787, 643.6547pt x 596.98032pt>
 File: img/hugosystem.jpg Graphic file (type jpg)
 
 <use img/hugosystem.jpg>
-Overfull \vbox (13.50638pt too high) detected at line 454
+Overfull \vbox (13.50638pt too high) detected at line 470
  []
 
 
@@ -1634,7 +1664,7 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[19
+[23
 
  <./img/hugosystem.jpg>]
 File: img/hugosystem.jpg Graphic file (type jpg)
@@ -1643,43 +1673,43 @@ Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[20
-
-]
-File: img/hugosystem.jpg Graphic file (type jpg)
- <use img/hugosystem.jpg>
-Overfull \hbox (182.09766pt too wide) has occurred while \output is active
-[] 
- []
-
-[21
-
-]
-File: img/hugosystem.jpg Graphic file (type jpg)
- <use img/hugosystem.jpg>
-Overfull \hbox (182.09766pt too wide) has occurred while \output is active
-[] 
- []
-
-[22
-
-]
-File: img/hugosystem.jpg Graphic file (type jpg)
- <use img/hugosystem.jpg>
-Overfull \hbox (182.09766pt too wide) has occurred while \output is active
-[] 
- []
-
-[23
-
-]
-File: img/hugosystem.jpg Graphic file (type jpg)
- <use img/hugosystem.jpg>
-Overfull \hbox (182.09766pt too wide) has occurred while \output is active
-[] 
- []
-
 [24
+
+]
+File: img/hugosystem.jpg Graphic file (type jpg)
+ <use img/hugosystem.jpg>
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[25
+
+]
+File: img/hugosystem.jpg Graphic file (type jpg)
+ <use img/hugosystem.jpg>
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[26
+
+]
+File: img/hugosystem.jpg Graphic file (type jpg)
+ <use img/hugosystem.jpg>
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[27
+
+]
+File: img/hugosystem.jpg Graphic file (type jpg)
+ <use img/hugosystem.jpg>
+Overfull \hbox (182.09766pt too wide) has occurred while \output is active
+[] 
+ []
+
+[28
 
 ]
 
@@ -1690,7 +1720,7 @@ See the beamer class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455   \againframe<2->[plain]{zooms}
+l.471   \againframe<2->[plain]{zooms}
                                      
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
@@ -1699,62 +1729,62 @@ and deduce the truth by order and method.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\d' on input line 457.
+(hyperref)                removing `\d' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 457.
+(hyperref)                removing `\ecircumflex' on input line 473.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\textacute+\ocircumflex' on input line 457.
+(hyperref)                removing `\textacute+\ocircumflex' on input line 473.
 
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 457.
+(hyperref)                removing `\ocircumflex' on input line 473.
 
 (./kdd.toc)
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[25
+[29
 
-] <img/map1.jpg, id=874, 803.0pt x 545.03625pt>
+] <img/map1.jpg, id=1016, 803.0pt x 545.03625pt>
 File: img/map1.jpg Graphic file (type jpg)
  <use img/map1.jpg>pdfTeX warning (ext4): destination with the same identifier 
 (name{fig:model}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.466       \end{frame}
+l.482       \end{frame}
                        
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[26
+[30
 
  <./img/map1.jpg>]
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[27
+[31
 
 ]
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[28
+[32
 
 ]
 Overfull \hbox (182.09766pt too wide) has occurred while \output is active
 [] 
  []
 
-[29
+[33
 
 ]
 \tf@nav=\write5
@@ -1772,20 +1802,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9984 strings out of 256216
- 169482 string characters out of 1917073
+ 10007 strings out of 256216
+ 169699 string characters out of 1917073
  263035 words of memory out of 1500000
- 12857 multiletter control sequences out of 10000+200000
+ 12863 multiletter control sequences out of 10000+200000
  78434 words of font info for 85 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 43i,22n,65p,330b,752s stack positions out of 5000i,500n,6000p,200000b,15000s
-{/usr/share/texmf/fonts/enc/dvips/vntex/t5.enc}</usr/share/texmf/fonts/type1/
-bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/
-share/texmf/fonts/type1/vntex/urwvn/ucrr8v.pfb></usr/share/texmf/fonts/type1/vn
-tex/urwvn/uhvb8v.pfb></usr/share/texmf/fonts/type1/vntex/urwvn/uhvr8v.pfb>
-Output written on kdd.pdf (29 pages, 460297 bytes).
+ 43i,22n,64p,330b,751s stack positions out of 5000i,500n,6000p,200000b,15000s
+pdfTeX warning (dest): name{Outline0.3.2.28} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.3.1.21} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.2.2.19} has been referenced but does not e
+xist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/vntex/t5.enc}</usr/share/texmf/fonts/type1/bl
+uesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/sh
+are/texmf/fonts/type1/vntex/urwvn/ucrr8v.pfb></usr/share/texmf/fonts/type1/vnte
+x/urwvn/uhvb8v.pfb></usr/share/texmf/fonts/type1/vntex/urwvn/uhvr8v.pfb>
+Output written on kdd.pdf (33 pages, 491998 bytes).
 PDF statistics:
- 1024 PDF objects out of 1200 (max. 8388607)
- 73 named destinations out of 1000 (max. 131072)
+ 1168 PDF objects out of 1200 (max. 8388607)
+ 84 named destinations out of 1000 (max. 131072)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

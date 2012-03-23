@@ -23,7 +23,7 @@
 % template and not specifically distribute it as part of a another
 % package/program, I grant the extra permission to freely copy and
 % modify this file as you see fit and even to delete this copyright
-% notice. 
+% notice.
 
 
 \mode<presentation>
@@ -99,7 +99,7 @@ in head/foot}%
 \hbox{%
 \begin{beamercolorbox}[wd=.9\paperwidth,ht=2.5ex,dp=1.125ex,left]{title
 in head/foot}%
-%\usebeamerfont{author in head/foot} 
+%\usebeamerfont{author in head/foot}
 \hspace{.1cm}
 \tiny{\trang{Một phương pháp lai trích xuất sự kiện và áp dụng vào hệ thống theo dõi tin tức trực tuyến $\mathcal{N}$\texttt{ewSOMoni} }}%\tddate\ \ \tdtime}}
 \end{beamercolorbox}%
@@ -183,7 +183,7 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 %  \and
 %  \inst{2}%
 %  \\
-  \tim{Phòng thí nghiệm Công nghệ Tri thức -- Đại học Công Nghệ} 
+  \tim{Phòng thí nghiệm Công nghệ Tri thức -- Đại học Công Nghệ}
 }
 % - Use the \inst command only if there are several affiliations.
 % - Keep it simple, no one is interested in your street address.
@@ -192,7 +192,7 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 \date{$\;$}
 %\subject{Talks}
 % This is only inserted into the PDF information catalog. Can be left
-% out. 
+% out.
 \setbeamertemplate{footline}
 {%
 \leavevmode%
@@ -215,7 +215,7 @@ in head/foot}%
 \hbox{%
 \begin{beamercolorbox}[wd=.9\paperwidth,ht=2.5ex,dp=1.125ex,left]{title
 in head/foot}%
-%\usebeamerfont{author in head/foot} 
+%\usebeamerfont{author in head/foot}
 \hspace{.1cm}
 \tiny{\trang{Một phương pháp lai trích xuất sự kiện và áp dụng vào hệ thống theo dõi tin tức trực tuyến $\mathcal{N}$\texttt{ewSOMoni} }}
 \end{beamercolorbox}%
@@ -249,7 +249,7 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 
 
 % If you wish to uncover everything in a step-wise fashion, uncomment
-% the following command: 
+% the following command:
 
 %\beamerdefaultoverlayspecification{<+->}
 %LOGO
@@ -262,9 +262,9 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 \DeclareGraphicsExtensions{.jpg,.pdf,.mps,.png,.eps}
 %\setbeamertemplate{footline}[frame number]
 \begin{frame}
-  %\initclock	
+  %\initclock
   \titlepage
-  
+
 \end{frame}
 
 
@@ -290,7 +290,7 @@ in head/foot}%
 \hbox{%
 \begin{beamercolorbox}[wd=.9\paperwidth,ht=2.5ex,dp=1.125ex,left]{title
 in head/foot}%
-%\usebeamerfont{author in head/foot} 
+%\usebeamerfont{author in head/foot}
 \hspace{.1cm}
 \tiny{\trang{Một phương pháp lai trích xuất sự kiện và áp dụng vào hệ thống theo dõi tin tức trực tuyến $\mathcal{N}$\texttt{ewSOMoni}}}
 \end{beamercolorbox}%
@@ -319,7 +319,7 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 % Since this a solution template for a generic talk, very little can
 % be said about how it should be structured. However, the talk length
 % of between 15min and 45min and the theme suggest that you stick to
-% the following rules:  
+% the following rules:
 
 % - Exactly two or three sections (other than the summary).
 % - At *most* three subsections per section.
@@ -335,24 +335,152 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 \end{frame}
 
 
+
 \section{Giới thiệu}
+  \begin{frame}{\trang{\LARGE \bf{Nội dung}}}
+    \tableofcontents[currentsection]
+  \end{frame}
+	%\subsection{Động lực nghiên cứu}
+    \begin{frame}{Động lực nghiên cứu}
+      \begin{itemize}
+        \item Thông tin về một sự kiện nổi bật:
+          \begin{itemize}
+            \item Nhiều
+              \item Đa chiều
+               \item Tính cập nhật cao
+            \end{itemize}
+          \medskip
+          \pause
+        \item Trích xuất sự kiện có vai trò quan trọng:
+          \begin{itemize}
+            \item Hệ thống theo dõi, giám sát
+              \begin{itemize}
+                \item BioCaster (\href{http://born.nii.ac.jp/}{http://born.nii.ac.jp/})
+                 % \item HealthMap (\href{http://www.healthmap.org/en/}{http://www.healthmap.org/en/})
+                    \item EpiSpider (\href{http://www.epispider.org/}{http://www.epispider.org/})
+                      \item Metro Monitor (\href{(www.metromonitor.com/}{(www.metromonitor.com/})
+                \end{itemize}
+              \pause
+              \item Hệ thống cảnh báo, bảo mật
+                \begin{itemize}
+                  \item Frontex (\href{http://www.frontex.europa.eu/}{http://www.frontex.europa.eu/})
+                  \end{itemize}
+          \end{itemize}
+        \end{itemize}
+      \end{frame}
+
+
+    %\subsection{Bài toán đặt ra}
+    \begin{frame}{Mô tả bài toán}
+      \begin{itemize}
+       \item Trích xuất sự kiện theo phương pháp kết hợp luật ngữ nghĩa  và học máy Maximum Entropy
+\pause
+\item Áp dụng thử nghiệm cho hệ thống theo dõi tin tức
+         \begin{itemize}
+           \item \textsc{Hình sự}
+             \item \textsc{Tai nạn giao thông}
+               \item \textsc{Cháy nổ}
+          \end{itemize}
+        \medskip
+        \pause
+        \item \textbf{Đầu vào:} một tin tức thu thập trực tuyến
+          \pause
+        \item \textbf{Đầu ra:}
+          \begin{itemize}
+            \item Bản tin chứa sự kiện không?
+              \pause
+              \item Thông tin sự kiện:
+                \begin{itemize}
+                  \item dạng sự kiện, tên sự kiện
+                    \item nhân tố tham gia, thời gian, địa điểm
+                 \end{itemize}
+          \end{itemize}
+      \end{itemize}
+    \end{frame}
+
+	%\subsection{Mục tiêu nghiên cứu}
+    \begin{frame}{Mục tiêu nghiên cứu}
+      \begin{itemize}
+        \item Thế nào là sự kiện, trích xuất sự kiện?
+          \medskip
+          \item Các hướng tiếp cận giải quyết bài toán trích xuất sự kiện?
+            \medskip
+          \item Làm thế nào để trích xuất sự kiện trên tin tức tiếng Việt?
+            \medskip
+          \item Một hệ thống theo dõi tin tức có khả thi không?
+        \end{itemize}
+
+      \end{frame}
+
+
+\section{Phương pháp giải quyết}
+  \begin{frame}{\trang{\LARGE \bf{Nội dung}}}
+    \tableofcontents[currentsection, currentsubsection]
+  \end{frame}
+  \subsection{Các hướng  tiếp cận}
+
+  \begin{frame}{Định nghĩa sự kiện}
+
+    \end{frame}
+
+
+  \begin{frame}{Áp dụng luật}
+
+    \end{frame}
+
+  \begin{frame}{Áp dụng học máy -- thống kê}
+
+    \end{frame}
+
+  \begin{frame}{Kết hợp luật và học máy -- thống kê}
+
+    \end{frame}
+  \subsection{Phương pháp đề xuất}
 
 
 
-\section{Phương pháp đề xuất}
+
+\section{Hệ thống $\mathcal{N}$\texttt{ewSOMoni}}
+  \begin{frame}{\trang{\LARGE \bf{Nội dung}}}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+ \subsection{Mô tả hệ thống}
+
+  \begin{frame}{Mô hình hệ thống}
+   % \framezoom<1><2>(2cm,0cm)(2cm,2.8cm)
+    \framezoom<1><2>(4.2cm,1cm)(2.5cm, 5.9cm)
+    \framezoom<1><3>(1.8cm,0.3cm)(2.1cm,2.5cm)
+    \framezoom<1><4>(1.8cm,3cm)(2.1cm,1.7cm)
+    \framezoom<1><5>(1.8cm,4.9cm)(2.1cm,2.1cm)
+    \framezoom<1><6>(7cm,3.5cm)(2.1cm,2cm)
 
 
-
-\section{Mô hình hệ thống}
-
-\begin{frame}{Mô hình hệ thống}
-	\begin{figure}[ht]
+       % \framezoom<1><2>[border](2cm,3cm)(2cm,1.7cm)
+       % \framezoom<1><4>[border](3cm,2cm)(3cm,2cm)
+           % \framezoom<1><2>(0cm,0cm)(2cm,3cm)
+            %    \framezoom<1><2>(0cm,0cm)(2cm,3cm)
+             %       \framezoom<1><2>(0cm,0cm)(2cm,3cm)
+  \begin{figure}[ht]
 		\centering
-		\includegraphics[width=0.65\textwidth]{img/hugosystem}
+        %trim=120 0 0 0,clip,
+		\includegraphics[ width=0.65\textwidth]{img/hugosystem}
 		%\caption{Re--tweet}
 		\label{fig:model}
 	\end{figure}
 \end{frame}
+  \againframe<2->[plain]{zooms}
+
+  \subsection{Demo hệ thống}
+  \begin{frame}
+      \begin{figure}[ht]
+		\centering
+		\includegraphics[width=4in, height=2.5in]{img/map1}
+		%\caption{Re--tweet}
+		\label{fig:model}
+	\end{figure}
+
+      \end{frame}
+
 
 
 
@@ -416,5 +544,3 @@ $\;$ $\;$ $\;$ $\;$ \insertframenumber/ \inserttotalframenumber
 
 
 \end{document}
-
-
