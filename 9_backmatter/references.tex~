@@ -17,6 +17,10 @@ $\;$
 		\bibitem[FFU11]{FFU11} Frederik Hogenboom, Flavius Frasincar, Uzay Kaymak, Franciska De Jong. \emph{An Overview of Event Extraction from Text}. Workhop on Detection, Representation, and Exploitation of Events in the Semantic Web, DeRiVE, 2011.
 
 		\bibitem[MW11]{MW11} Martin Wunderwald. \emph{NewsX--Event Extraction from News Articles}. Master Thesis. Dresden University of Technology, Germany, 2011.
+
+		\bibitem[JM11]{JM11} Jakub Piskorski, Martin Atkinson.\emph{Frontex real-time news event extraction framework}. International Conference on Knowledge Discovery and Data Mining, KDD11, 2011. 
+
+		\bibitem[FIM11]{FIM11}  Florent Nicart, Ilias Flaounas, Marco Turchi, Nello Cristianini, Omar Ali, Tijl De Bie, Tristan Snowsill. \emph{NOAM: news outlets analysis and monitoring system}. International Conference on Management of Data, SIGMOD11, 2011.
 	
 		%\bibitem[HLH10]{HLH10} Sheng-Hao Hung, Chia-Hung Lin Jen-Shin Hong. \emph{Web mining for event-based commonsense knowledge using lexico-syntactic pattern matching and semantic role labeling}. Journal Expert Systems with Applications, vol. 37, 2010.
 		
@@ -49,7 +53,10 @@ $\;$
 with Seeds of Varying Complexity}. AAAI Workshop on Event Extraction and Synthesis, 2006.
 		
 		\bibitem[LWZ05]{LWZ05} Zhen Lei, Ling-da Wu, Ying Zhang, Yu-chi Liu, \emph{A System for Detecting and Tracking Internet News Event}. Pacific--Rim Conference on Multimedia, $6^th$, PCM05, 2005.
-		\bibitem[RDA05]{RDA05} Ralph Grishman, David Westbrook, Adam Meyers. \emph{NYU's English ACE 2005 System Description}.
+
+		\bibitem[RDA05]{RDA05} Ralph Grishman, David Westbrook, Adam Meyers. \emph{NYU's English ACE 2005 System Description}. ACE Program, 2005. 
+
+
 		\bibitem[MD04]{MD04} 	Maria Vargas-Vera, David Celjuska. \emph{Event Recognition on News Stories and Semi-Automatic Population of an Ontology}.IEEE/WIC/ACM International Conference on Web Intelligence, WI04, 2004.
 
 

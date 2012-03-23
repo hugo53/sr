@@ -1,0 +1,48 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdftex 2011.11.18)  18 NOV 2011 13:02
+entering extended mode
+**E:/BACHELOR/A_SEM7/Mining/Report/Slide/bib/mainbib.bib
+(E:/BACHELOR/A_SEM7/Mining/Report/Slide/bib/mainbib.bib
+Overfull \hbox (79.09601pt too wide) in paragraph at lines 32--40
+[]\tenrm @bookBrucker, au-thor = Brucker, Pe-ter, book-ti-tle = New York, year 
+= 2007, file = :E$\tensy n$\tenrm :/A[]SResearch/Paper/Brucker/New|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.etc.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ƒ in font cmr10!
+Missing character: There is no Æ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+! Undefined control sequence.
+l.46 howpublished={\url
+                       {http://www.tapchibcvt.gov.vn/News/PrintView.aspx?ID=...
+
+? 
+! Emergency stop.
+l.46 howpublished={\url
+                       {http://www.tapchibcvt.gov.vn/News/PrintView.aspx?ID=...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

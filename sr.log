@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  21 MAR 2012 18:06
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.3.2)  22 MAR 2012 02:49
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode\input sr.tex
@@ -831,7 +831,7 @@ less on input line 218.
 \openout2 = `Latex/Macros/MacroFile1.aux'.
 
 (./Latex/Macros/MacroFile1.tex) (./sr.aux (./0_frontmatter/abstract.aux)
-(./1_introduction/introduction.aux) (./3/ourmethod.aux) (./4/experience.aux)
+(./1/introduction.aux) (./3/ourmethod.aux) (./4/experience.aux)
 (./5/summary.aux) (./9_backmatter/appendix.aux))
 \openout1 = `sr.aux'.
 
@@ -991,9 +991,9 @@ LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
 
 
 ]
-\openout2 = `1_introduction/introduction.aux'.
+\openout2 = `1/introduction.aux'.
 
- (./1_introduction/introduction.tex
+ (./1/introduction.tex
  1.
 [2
 
@@ -1028,6 +1028,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[7]
 ! Undefined control sequence.
 <recently read> \noident 
                          
@@ -1039,7 +1040,22 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[7] [8] [9]) [10] [11]
+[8] [9] [10] <1/figures/bio.jpg, id=397, 862.22125pt x 603.25375pt>
+File: 1/figures/bio.jpg Graphic file (type jpg)
+
+<use 1/figures/bio.jpg> <1/figures/epi.jpg, id=398, 1079.03125pt x 529.98pt>
+File: 1/figures/epi.jpg Graphic file (type jpg)
+
+<use 1/figures/epi.jpg>
+<1/figures/frontex.jpg, id=399, 826.08624pt x 545.03625pt>
+File: 1/figures/frontex.jpg Graphic file (type jpg)
+
+<use 1/figures/frontex.jpg>
+<1/figures/noam.jpg, id=400, 917.4275pt x 542.025pt>
+File: 1/figures/noam.jpg Graphic file (type jpg)
+ <use 1/figures/noam.jpg>)
+[11 <./1/figures/bio.jpg>] [12 <./1/figures/epi.jpg> <./1/figures/frontex.jpg>]
+[13 <./1/figures/noam.jpg>]
 \openout2 = `3/ourmethod.aux'.
 
  (./3/ourmethod.tex
@@ -1070,65 +1086,71 @@ l.21 ...¯t cá»§a \texttt{News Online Monitoring}}}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 32.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 32.
-
-<3/figures/system.jpg, id=392, 803.0pt x 602.25pt>
-File: 3/figures/system.jpg Graphic file (type jpg)
- <use 3/figures/system.jpg>
-[12
+[14
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
  (/usr/share/texmf/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
- [13 <./3/figures/system.jpg>]
-[14] <3/figures/xmlformat.jpg, id=433, 922.44624pt x 491.8375pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 58.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 58.
+
+<3/figures/system.jpg, id=438, 803.0pt x 602.25pt>
+File: 3/figures/system.jpg Graphic file (type jpg)
+ <use 3/figures/system.jpg>
+[15] [16 <./3/figures/system.jpg>] [17]
+<3/figures/xmlformat.jpg, id=473, 922.44624pt x 491.8375pt>
 File: 3/figures/xmlformat.jpg Graphic file (type jpg)
 
 <use 3/figures/xmlformat.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 87--91
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
 
  []
 
-[15 <./3/figures/xmlformat.jpg>]
-Overfull \hbox (22.26268pt too wide) in paragraph at lines 95--109
+
+Overfull \hbox (22.26268pt too wide) in paragraph at lines 121--135
  [][] 
  []
 
+[18 <./3/figures/xmlformat.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[16]) [17]
+[19]) [20]
 \openout2 = `4/experience.aux'.
 
  (./4/experience.tex
  3.
-) [18
+) [21
 
 
 
 ]
 \openout2 = `5/summary.aux'.
 
- (./5/summary.tex) [19
+ (./5/summary.tex) [22
 
 
 
@@ -1365,11 +1387,11 @@ Overfull \hbox (26.1633pt too wide) in paragraph at lines 3--161
 /chuyentrang.tuoitre.vn/WorldCup2010[] 
  []
 
-[20
+[23
 
 
 
-] [21] [22] [23] [24]) [25] (./9_backmatter/references.tex (./sr.brf)
+] [24] [25] [26] [27]) [28] (./9_backmatter/references.tex (./sr.brf)
 \tf@brf=\write9
 \openout9 = `sr.brf'.
 
@@ -1398,40 +1420,39 @@ l.7 \begin{flushright}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[26
+[29
 
 
-] [27]) [28] (./sr.aux (./0_frontmatter/abstract.aux)
-(./1_introduction/introduction.aux) (./3/ourmethod.aux) (./4/experience.aux)
-(./5/summary.aux) (./9_backmatter/appendix.aux)) ) 
+] [30]) [31] (./sr.aux (./0_frontmatter/abstract.aux) (./1/introduction.aux) (.
+/3/ourmethod.aux) (./4/experience.aux) (./5/summary.aux)
+(./9_backmatter/appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 8217 strings out of 256216
- 103994 string characters out of 1917073
+ 8271 strings out of 256216
+ 104624 string characters out of 1917073
  173920 words of memory out of 1500000
- 11083 multiletter control sequences out of 10000+200000
+ 11118 multiletter control sequences out of 10000+200000
  44706 words of font info for 116 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 42i,14n,48p,2610b,533s stack positions out of 5000i,500n,6000p,200000b,15000s
-</usr/share/texmf/fonts/type1
-/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr
-/share/texmf/fonts/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf/fonts/type1/blu
-esky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr9.pfb></usr/share
-/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/
-ams/eusm10.pfb></usr/share/texmf/fonts/type1/public/cmex/fmex9.pfb></usr/share/
-texmf/fonts/type1/vntex/vnr/vnbx10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/
-vnbx12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx9.pfb></usr/share/texmf/
-fonts/type1/vntex/vnr/vnbxti10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vncs
-c10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnitt10.pfb></usr/share/texmf/f
-onts/type1/vntex/vnr/vnr10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr12.pf
-b></usr/share/texmf/fonts/type1/vntex/vnr/vnr6.pfb></usr/share/texmf/fonts/type
-1/vntex/vnr/vnr8.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr9.pfb></usr/sha
-re/texmf/fonts/type1/vntex/vnr/vnti10.pfb></usr/share/texmf/fonts/type1/vntex/v
-nr/vnti9.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb></usr/share/tex
-mf/fonts/type1/vntex/vnr/vntt12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnt
-t9.pfb>
-Output written on sr.pdf (35 pages, 556959 bytes).
+ 42i,14n,48p,2653b,535s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi10
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts
+/type1/bluesky/cm/cmmi9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1
+/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/ams/eusm10.pfb></u
+sr/share/texmf/fonts/type1/public/cmex/fmex9.pfb></usr/share/texmf/fonts/type1/
+vntex/vnr/vnbx10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnbx12.pfb></usr/s
+hare/texmf/fonts/type1/vntex/vnr/vnbx9.pfb></usr/share/texmf/fonts/type1/vntex/
+vnr/vnbxti10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vncsc10.pfb></usr/shar
+e/texmf/fonts/type1/vntex/vnr/vnitt10.pfb></usr/share/texmf/fonts/type1/vntex/v
+nr/vnr10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/texm
+f/fonts/type1/vntex/vnr/vnr6.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnr8.p
+fb></usr/share/texmf/fonts/type1/vntex/vnr/vnr9.pfb></usr/share/texmf/fonts/typ
+e1/vntex/vnr/vnti10.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vnti9.pfb></usr
+/share/texmf/fonts/type1/vntex/vnr/vntt10.pfb></usr/share/texmf/fonts/type1/vnt
+ex/vnr/vntt12.pfb></usr/share/texmf/fonts/type1/vntex/vnr/vntt9.pfb>
+Output written on sr.pdf (38 pages, 1165547 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 131072)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 856 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 131072)
+ 300 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -120,7 +120,7 @@
 %\include{2/method}						% aims of the project
 \include{3/ourmethod}
 \include{4/experience}
-%\include{5/XYZ}
+\include{5/summary}
 %\include{6/XYZ}
 %\include{7/discussion}               % discussion of results
 %\include{8/materials_methods}        % description of lab methods

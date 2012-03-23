@@ -18,15 +18,42 @@
 
 
 \noindent Chương này chúng tôi sẽ trình bày về hệ thống theo dõi tin tức trực tuyến có tên $\mathcal{N}$\texttt{ewSOMoni}
-\footnote{[nju: 's$\Lambda$m m$\Lambda$ni]} \footnote{$\mathcal{N}$\texttt{ew} \overbrace{S}^{\mbox{Smartness}} \underbrace{O}_{\mbox{Orientation}} \overbrace{M}^{\mbox{Magnitude}}oni \hspace{0.2in}   \mbox{viết tắt của \texttt{News Online Monitoring}}} cùng  phương pháp lai giữa luật và học máy Maximum Entropy trong pha trích xuất sự kiện của hệ thống vừa được nhắc tới. %Trước tiên, mô hình đề xuất và diễn giải chi tiết hệ thống được thể hiện ở phần %\ref{system} ngay dưới đây. Sau đó, phương pháp lai trích xuất sự kiện được nói %tới  ở phần \ref{method} (trang \pageref{method}).
-%Trước tiên, phương pháp lai giữa luật ngữ nghĩa và học máy Maximum Entropy được thể hiện ngay dưới đây. Sau đó, mô hình đề xuất và diễn giải chi tiết của hệ thống $\mathcal{N}$\texttt{ewSOMoni} được xem xét ở phần \ref{system}.
+\footnote{[nju: 's$\Lambda$m m$\Lambda$ni]} \footnote{$\mathcal{N}$\texttt{ew} \overbrace{S}^{\mbox{Smartness}} \underbrace{O}_{\mbox{Orientation}} \overbrace{M}^{\mbox{Magnitude}}oni \hspace{0.2in}   \mbox{viết tắt của \texttt{News Online Monitoring}}} cùng  phương pháp lai giữa luật và học máy Maximum Entropy để  trích xuất sự kiện.
+%Trước tiên, mô hình đề xuất và diễn giải chi tiết hệ thống được thể hiện ở phần %\ref{system} ngay dưới đây. Sau đó, phương pháp lai trích xuất sự kiện được nói %tới  ở phần \ref{method} (trang \pageref{method}).
+%Trước tiên, phương pháp lai giữa luật ngữ nghĩa và học máy Maximum Entropy được 
+Trước tiên, phương pháp  đánh giá hiệu quả trích xuất sẽ được nói tới nhằm mục đích làm rõ tiêu chí ước lượng phương pháp trích xuất và làm cơ sở để so sánh phương pháp của chúng tôi với các  phương pháp khác. Tiếp sau, mô hình đề xuất và diễn giải chi tiết của hệ thống $\mathcal{N}$\texttt{ewSOMoni} được xem xét ở phần \ref{system}.
 %Trước tiên, phương pháp đánh giá hệ thống được
 
 
 %\section{Kết hợp luật ngữ nghĩa  và Maximum Entropy trong trích xuất sự kiện}
 %\label{method}
 \section{Phương pháp đánh giá hiệu quả trích xuất sự kiện}
-\noindent Mọi phương pháp trích xuất sự kiện được đề xuất đều phải đánh giá hiệu quả trích xuất. Tuy vậy, để đánh giá hiệu quả trích xuất một cách tự động là công việc khó. Điều đó có nghĩa rằng luôn cần có sự can thiệp của con người trong quá trình đánh giá. Hội nghị MUC ...
+\noindent Mọi phương pháp trích xuất sự kiện được đề xuất đều phải đánh giá hiệu quả trích xuất. Tuy vậy, để đánh giá hiệu quả trích xuất một cách tự động là công việc khó vì tính bất định của sự kiện hàng ngày.
+%Điều đó có nghĩa rằng luôn cần có sự can thiệp của con người trong quá trình %ánh giá.
+Hội nghị MUC định nghĩa các khung mẫu sự kiện với các trường chưa được xác định. Công việc của các nhà nghiên cứu là tìm cách xác định những trường này. Bởi thế, ước lượng phương pháp trích xuất sự kiện sử dụng độ chính xác và độ hồi tưởng được tính bởi các công thức \ref{eq:precision}, \ref{eq:recall} \cite{RB96}.
+
+\begin{equation}
+  \label{eq:precision}
+  \mbox{độ chính xác} = \frac{N_{\mbox{điền đúng}}}{N_{\mbox{điền đúng}} + N_{\mbox{điền sai}}}
+\end{equation}
+
+
+\begin{equation}
+  \label{eq:recall}
+  \mbox{độ hồi tưởng} = \frac{N_{\mbox{điền đúng}}}{N_{\mbox{phải điền}}}
+\end{equation}
+\noindent Trong đó:
+\begin{itemize}
+  \item $N_{\mbox{phải điền}}$ \hspace{0.5cm}là số trường trong khung mẫu phải điền vào
+  \item $N_{\mbox{điền đúng}}$ \hspace{0.5cm} là số trường mà phương pháp điền được và  đúng
+    \item $N_{\mbox{điền sai}}$ \hspace{0.5cm} là số trường mà phương pháp điền được nhưng sai
+\end{itemize}
+
+\noindent Chương trình ACE,
+
+
+
+
 
 
 \section{Hệ thống theo dõi tin tức trực tuyến  $\mathcal{N}$\texttt{ewSOMoni}}
@@ -91,7 +118,7 @@
 
 \begin{table}
 	\centering
-\caption{Dữ liệu thô}
+\caption{\textbf{Dữ liệu sau khi tiền xử lý} }
   \begin{tabular}{|l|l|}
      \hline
      \textbf{Tên trường} & \textbf{Giá trị} \\
@@ -115,18 +142,22 @@
 \subsection{Phân loại sự kiện}
 \label{classifi}
 
-\noindent Pha này sẽ giải quyết vấn đề nhận dạng sự kiện. Tin tức thu được từ pha  thu thập dữ liệu sẽ được quyết định có chứa sự kiện hay không. Qua khảo sát dữ liệu, chúng tôi nhận thấy hầu hết tiêu đề tin tức thể hiện rõ được nội dung tin tức có nói về sự kiện. Bởi vậy, bài toán đưa về phân lớp nhị phân mức câu. Hai bước cần phải làm trong pha này. Đầu tiên, tập đặc trưng được lựa chọn. Sau đó, các đặc trưng sẽ được trích chọn trên tập tin tức đã được thu thập trước (dữ liệu ngoại tuyến). Cuối cùng, mô hình phân lớp được học bằng  phương pháp học máy Maximum Entropy.
+\noindent Pha này sẽ giải quyết vấn đề nhận dạng sự kiện. Tin tức thu được từ pha  thu thập dữ liệu sẽ được quyết định có chứa sự kiện hay không. Qua khảo sát dữ liệu, chúng tôi nhận thấy hầu hết tiêu đề tin tức thể hiện rõ được nội dung tin tức có nói về sự kiện. Bởi vậy, bài toán đưa về phân lớp nhị phân mức câu. Đây là bước đầu tiên trong quá trình kết hợp luật ngữ nghĩa và học máy để trích xuất sự kiện mà chung tôi đề xuất. Hai việc cần phải làm trong pha này. Đầu tiên, tập đặc trưng được lựa chọn. Các đặc trưng sẽ được trích chọn trên tập tin tức đã thu thập trước (dữ liệu ngoại tuyến). Sau đó, mô hình phân lớp được sinh ra bằng  phương pháp học máy Maximum Entropy. Tin tức qua mô hình phân lớp hoặc được truyền tới pha tiếp theo nếu được nhận dạng là chứa sự kiện, hoặc bị loại bỏ nếu ngược lại.
 
 \paragraph{Lựa chọn và trích chọn đặc trưng}  $\;$ \\
 
 
 \paragraph{Phân lớp chủ đề} $\;$ \\
-\noindent
+%\noindent
 
 
 
 \subsection{Trích xuất sự kiện}
 \label{ee}
+\noindent Sau khi đã nhận dạng được tin tức có chứa sự kiện, sự kiện cùng ba thông tin liên quan: người, thời gian, địa điểm sẽ được trích xuất. Ba vấn đề cần giải quyết để hoàn thành pha này gồm có trích chọn thực thể, trích xuất quan hệ thực thể và trích xuất sự kiện. Hai vấn đề đầu tiên chúng tôi sử dụng kết quả kế thừa từ các nghiên cứu XYZ, TUV  của phòng thí nghiệm Công Nghệ Tri Thức (KT--Lab). Giải quyết vấn đề thứ ba là bước thứ hai và cũng là bước cuối cùng trong quá trình kết hợp luật ngữ nghĩa và học máy Maximum Entropy để trích xuất sự kiện. \\
+
+
+
 \paragraph{Trích chọn thực thể}
 
 
@@ -135,11 +166,12 @@
 
 
 \paragraph{Trích xuất sự kiện}
-
+\noindent
 
 
 \subsection{Trực quan hóa dữ liệu}
 \label{vi}
+\noindent Pha trực quan hóa dữ liệu lấy sự kiện cùng các thông tin liên quan và thể hiện trực quan trên bản đồ do Google Map \footnote{\href{https://developers.google.com/maps/}{https://developers.google.com/maps/}} cung cấp.
 
 
 %Insert ảnh màn hình  vào đây.
